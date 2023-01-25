@@ -1,6 +1,7 @@
 const { Router } = require('express')
 const passport = require('passport')
 const { countVisits } = require('../middlewares/countVisits/countVisits.middleware')
+const { checkAuthentication } = require('../middlewares/chekAuthentication')
 // const { users } = require('../usuarios/users')
 //const { passport } = require('../middlewares/passport')
 const { generateToken } = require('../utils/generateToken')
@@ -17,7 +18,8 @@ const bCrypt = require('bcrypt');
 //_______________________________ login _____________________________________ //
 authRouter.get('/login', (req, res) => { // lleva la vista del formulario de login
     const flag = false
-    res.render('login', { flag })
+    const fail = false
+    res.render('login', { flag, fail })
 })
 
 // authRouter.post('/login', passport.authenticate('login', {
@@ -30,7 +32,9 @@ authRouter.post('/login', countVisits ,async (req, res) => {
     try {
         const { username } = req.body
         let { password } = req.body
-        
+        let visits = req.session.visits
+        const flag = true
+
         const user = await server.getUserByUsername(username)
         
         function isValidPassword(user, password) {
@@ -40,41 +44,54 @@ authRouter.post('/login', countVisits ,async (req, res) => {
 
         const boolean = isValidPassword(user, password)
 
+        console.log('boolean: ' + boolean)
+
         if (boolean) {
             const usuario = await server.getUserByUsernameAndPass(username, user.password)
-            
+            const userInfo = await server.getUserByUsername(username)
+
+            console.log('error usuario: no encuentra usuario en Mongo', usuario)
+
             if (!usuario) {
-               return res.render('register', { flag: true, username, usuario }) // return res.json({ error: 'Usuario no existe!!' });
+                return res.render('register', { flag }) // return res.json({ error: 'Usuario no existe!!' });
             } else {
-                const access_token = generateToken(usuario) //user
-                //res.json({ access_token })
-                logger.info('usuario loggeado: ', username )
-                return res.render('index', { username } )
+                const access_token = generateToken(usuario)
+                req.session.admin = true
+                logger.info('usuario loggeado!')
+                return res.render('index', { userInfo, username, visits, flag } )
             }
         } else {
-            return res.json({Mensaje : ERRORRR}) //res.render('register', { flag: true, username, usuario })
+            const flag = false
+            const fail = true
+            return res.render('login', { flag, fail } )
         }
 
     } catch (error) {
-        res.status(500).send(error)
+        const flag = false
+        const fail = true
+        return res.render('login', { flag, fail } )
+        // res.status(500).send(error)
     }
-
 })
 
 //----------------------------------------------------------------
-authRouter.get('/historial', async (req, res) => {
+authRouter.get('/historial', checkAuthentication, async (req, res) => {
+    
+    // const userInfo = await server.getUserByUsername(username)
     try {
-        return res.render('historial')
+        return res.render('historial')//{{userInfo: req.user.username  })
     } catch (error) {
         res.status(500).send(error)
     }
 })
 
-authRouter.get('/index', async (req, res) => {
+authRouter.get('/index', checkAuthentication, countVisits, async (req, res) => {
+    // const userInfo = await server.getUserByUsername(username)
+    let visits = req.session.visits
+    const userInfo = req.session.username
     try {
-        //return res.render('index')
-        logger.info('usuario session: ', req.session)
-        return res.render('index.ejs' , { username: req.session.user, visitas: req.session.visits })
+        logger.info('usuario session: ', req.session.username)
+        return res.render('index')//, { userInfo, visits }) // , { userInfo, username: req.session.user, visitas: req.session.visits })
     } catch (error) {
         res.status(500).send(error)
     }
@@ -127,7 +144,7 @@ authRouter.post('/register', (req, res) => { // registra un usuario
     const yaExiste = server.getUserByUsername(username) 
 
     if (yaExiste === [] ) {
-        return res.render('register', { username , flag: true }) // res.json({ error: 'ya existe ese usuario' });
+        return res.render('register', { username , flag: true })
     } else {
         const nuevoUsuario = { 
             name,

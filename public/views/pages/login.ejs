@@ -13,16 +13,22 @@
         <h3 class="d-block mx-auto my-3 text-center">Login</h3>
         <%- include('../partials/formularioLogin'); %>
     </div>
+    <% if (fail) { %>
+        <div class="alert alert-danger mx-auto my-4 text-center w-25" id="alert1"><strong>Usuario No Registrado o<br>Password Incorrecto!</strong></div>
+    <% } else { %>
+        <div></div>
+    <% } %>
+
     <div class="alert alert-dark mx-auto my-4 text-center w-25">
-        <a href="/api/auth/github" class="btn btn-success mx-auto my-3">Entrar con github</a><br>
-        <a href="/api/auth/register" class="btn btn-primary mx-auto my-3">Register</a>
+        <a href="/api/auth/github" class="btn btn-success mx-auto my-3 w-50">Entrar con github</a><br>
+        <a href="/api/auth/register" class="btn btn-primary mx-auto my-3 w-50">Register</a>
     </div>
     <br>
 
     <% if (!flag) { %>
-        <div class="alert alert-success mx-auto my-4 text-center w-25" id="alert">No tienes usuario? Registrate! Es gratis!!</div>
+        <div class="alert alert-success mx-auto my-4 text-center w-25" id="alert3">No tienes usuario? Registrate! Es gratis!!</div>
     <% } else { %>
-        <div class="alert alert-warning mx-auto my-4 text-center w-25" id="alert">Usuario <strong><%=username%></strong> registrado con exito!</div
+        <div class="alert alert-warning mx-auto my-4 text-center w-25" id="alert4">Usuario <strong><%=username%></strong> registrado con exito!</div
     <% } %>
     
     

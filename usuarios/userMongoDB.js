@@ -93,24 +93,26 @@ class ServerMongoDB {
     async getUser(){
         try {
             const users = await Usuarios.find()
-            console.log(users)
+            //console.log(users)
+            logger.info('Usuarios', users)
         } catch (error) {
-            console.log(error)
+            // console.log(error)
+            logger.error(error)
         }
     }
 
     async getUserByUsername(username){
         try {
             const user = await Usuarios.findOne( {username: `${username}`} )
-            console.log('usuario: ', user)
             return user
         } catch (error) {
-            console.log(error)
+            logger.error(error)
         }
     }
 
     async getUserByUsernameAndPass(username, password) { 
-        console.log('username--pass-- ', username)
+        // console.log('username--pass-- ', username)
+        logger.info('Username&pass', username)
         try {
             const user = await Usuarios.findOne( {username: `${username}`, password: `${password}` } )
             // console.log('user-::>> ', user)
@@ -120,7 +122,7 @@ class ServerMongoDB {
                 return true
             }
         } catch (error) {
-            console.log(error)
+            logger.error(error)
         }
     }
 }

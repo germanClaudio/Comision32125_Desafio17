@@ -9,7 +9,10 @@
     <header>
         <%- include('../partials/header'); %>
     </header>
-    <div class="d-block mx-auto my-3 w-75 text-center alert alert-success h5" role="alert" id="mostrarUserName">Bienvenido usuario: <%= username %></div>
+    <div class="d-block mx-auto my-3 w-75 text-center alert alert-success h5"
+        role="alert" id="mostrarUserName">Bienvenido <%= userInfo.name %> <%= userInfo.lastName %> 
+         - Es tu visita #<%= visits %> 
+    </div>
     <h3 class="d-block mx-auto my-2 text-center">Load your Products</h3>
     <%- include('../partials/formulario'); %>
         <br>
@@ -20,7 +23,7 @@
         <br>
         <h3 class="d-block mx-auto my-2 text-center">Product List</h3>
         <div class="d-block mx-auto mb-3 text-center w-75">
-            <%- include('../partials/dataTable'); %>
+            <%- include('../partials/dataProductList'); %>
         </div>
         <hr>
         <%- include('../partials/formularioChat'); %>

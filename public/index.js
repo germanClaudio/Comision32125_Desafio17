@@ -82,9 +82,9 @@ const renderProduct = (arrProd) => {
                         <div class="card-body">
                             <h6 class="card-title"><strong>${element.name}</strong></h6>
                             <p class="card-text">${element.description}</p>
-                            <p class="card-text">${element.code}</p>
-                            <p class="card-text">${element.stock}</p>
-                            <p class="card-text">${element._id}</p>
+                            <p class="card-text">Code: ${element.code}</p>
+                            <p class="card-text">Stock: ${element.stock}</p>
+                            <p class="card-text">Id# ${element._id}</p>
                                 <a href="#" class="btn btn-primary mx-1"><i class="fa fa-shopping-cart"></i></a>
                                 <a href="#" class="btn btn-secondary mx-1"><i class="fa fa-pencil"></i></a>
                                 <a href="#" class="btn btn-danger mx-1"><i class="fa fa-trash"></i></a>
@@ -144,20 +144,3 @@ const renderOnlyOneProduct = (addProduct) => {
 }
 
 
-// -------------- Show User Info ----------------
-
-socket.on('showUserInfo', async (arrUser) => {
-    console.log('arrUser ', arrUser)
-    renderProduct (await arrUser)
-})
-
-const renderUser = (arrUser) => {
-    const htmlUser = arrUser.map((element) => {
-    
-        return (`<h3> ${element.lastName} </h3>`)
-    
-    }).join(" ");
-
-    document.getElementById('mostrarProductos').innerHTML = htmlUser
-
-}    

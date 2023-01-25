@@ -7,10 +7,14 @@
 
 <body>
     <%- include('../partials/header'); %>
+
+    <div class="d-block mx-auto my-3 w-75 text-center alert alert-success h5"
+        role="alert" id="mostrarUserName">Usuario  
+    </div>
     <!-- <div class="d-block mx-auto my-3 w-75 text-center alert alert-success h5" role="alert" id="mostrarUserName">Usuario: %= username %></div> -->
         <h2 class="d-block mx-auto my-3 text-center">History</h2>
         <div class="d-block mx-auto mb-3 text-center w-75">
-        <%- include('../partials/dataTable'); %>
+        <%- include('../partials/dataProductTable'); %>
         </div>
             <div class="d-block mx-auto my-4 pb-5 text-center">
                 <a class="btn btn-primary my-2" href="/api/auth/index"> Back to Home </a>

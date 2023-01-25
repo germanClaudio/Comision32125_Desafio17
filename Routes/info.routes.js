@@ -7,7 +7,7 @@ const options = require('../options/config')
 const { fork } = require('child_process')
 const path = require('path')
 
-const { checkAtuhentication } = require('../middlewares/chekAuthentication')
+const { checkAuthentication } = require('../middlewares/chekAuthentication')
 const logger = require('../utils/winston')
 //---------------- Process object -----------------
 const args = parseArgs(process.argv.slice(2))
@@ -58,7 +58,7 @@ infoRouter.get('/api/randoms', (req, res) => {
     }
 })
 
-infoRouter.get('/', checkAtuhentication, (req, res) => {
+infoRouter.get('/', checkAuthentication, (req, res) => {
     console.log('username: ', req.session )
     // const productos = products.getAllProducts()//getProducts()
     // if(productos.error) res.status(200).json({msg: 'No hay productos cargados'}) 

@@ -8,7 +8,7 @@ function generateToken(username) {
         }, 
         clave_jwt, 
         { 
-            expiresIn: '12h' 
+            expiresIn: '1h' 
         }
     );
     return token;

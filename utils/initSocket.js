@@ -77,13 +77,13 @@ const initSocket = (io) => {
 
         // -----------------------------  Usuarios ---------------------------------
         
-        async function listarUsuario() {
-            const usuario = await containerUser.getUserByUsername(username)
-            console.log('usuario ', usuario)
-            return usuario
-        }
+        // async function listarUsuario() {
+        //     const usuario = await containerUser.getUserByUsername(username)
+        //     console.log('usuario ', usuario)
+        //     return usuario
+        // }
                 
-        socket.emit("showUserInfo", await listarUsuario(username));
+        // socket.emit("showUserInfo", await listarUsuario(username));
     })
 }
 

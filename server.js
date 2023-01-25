@@ -61,6 +61,10 @@ const initServer = () => {
             mongoUrl: process.env.MONGO_URL_CONNECT,
             mongoOptions: advancedOptions,
         }),
+        httpOnly: true,
+        cookie: {
+            maxAge: 1800000,
+        },
         resave: true, 
         saveUninitialized: true
     }))

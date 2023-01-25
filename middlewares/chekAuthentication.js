@@ -1,8 +1,11 @@
-const { request } = require('express')
+// const { request } = require('express')
 
-const checkAtuhentication = (req, res, next) => {
-    if (req.isAuthenticated()) return next();
-    res.redirect("/api/auth/login");
+const checkAuthentication = (req, res, next) => {
+    console.log('req.isAuthenticated() ',req)
+    if (req.isAuthenticated()) {
+        return res.redirect("/api/auth/login");
+    }
+    next();
 }
 
-module.exports = { checkAtuhentication }
+module.exports = { checkAuthentication }
