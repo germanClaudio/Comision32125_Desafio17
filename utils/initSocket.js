@@ -6,9 +6,6 @@ const containerMsg = new ContainerMessages(options.filePath.pathMsg)
 const ContainerProducts = require("../daos/productos/ProductosDaoMongoDB.js")  //../daos/productos/ProductosDaoArchivo.js
 const containerProduct = new ContainerProducts(options.mongoDB.connection.URL) //options.filePath.path
 
-const ContainerUsers = require("../daos/usuarios/UsuariosDaoMongoDB.js")
-const containerUser = new ContainerUsers(options.mongoDB.connection.URL)
-
 const { normalize, schema } = require("normalizr");
 
 const initSocket = (io) => {
@@ -75,15 +72,7 @@ const initSocket = (io) => {
             logger.info(`User desconectado`)
         })
 
-        // -----------------------------  Usuarios ---------------------------------
         
-        // async function listarUsuario() {
-        //     const usuario = await containerUser.getUserByUsername(username)
-        //     console.log('usuario ', usuario)
-        //     return usuario
-        // }
-                
-        // socket.emit("showUserInfo", await listarUsuario(username));
     })
 }
 

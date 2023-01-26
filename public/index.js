@@ -81,13 +81,14 @@ const renderProduct = (arrProd) => {
                         <img src="${element.picture}" class="card-img-top" alt="Picture not Founded">
                         <div class="card-body">
                             <h6 class="card-title"><strong>${element.name}</strong></h6>
-                            <p class="card-text">${element.description}</p>
-                            <p class="card-text">Code: ${element.code}</p>
-                            <p class="card-text">Stock: ${element.stock}</p>
-                            <p class="card-text">Id# ${element._id}</p>
+                            <p class="card-text">${element.description}<br>
+                                                Price: $${element.price}<br>
+                                                Code: ${element.code}<br>
+                                                Stock: ${element.stock}<br>
+                                                Id# ${element._id}</p>
                                 <a href="#" class="btn btn-primary mx-1"><i class="fa fa-shopping-cart"></i></a>
-                                <a href="#" class="btn btn-secondary mx-1"><i class="fa fa-pencil"></i></a>
-                                <a href="#" class="btn btn-danger mx-1"><i class="fa fa-trash"></i></a>
+                                <a href="/api/productos/${element._id}" class="btn btn-secondary mx-1"><i class="fa fa-pencil"></i></a>
+                                <a href="/api/productos/delete/${element._id}" class="btn btn-danger mx-1"><i class="fa fa-trash"></i></a>
                         </div>
                     </div>
                 </div>`
@@ -142,5 +143,3 @@ const renderOnlyOneProduct = (addProduct) => {
     
     document.getElementById('nameSearch').value = ""
 }
-
-

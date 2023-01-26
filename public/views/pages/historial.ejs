@@ -9,9 +9,9 @@
     <%- include('../partials/header'); %>
 
     <div class="d-block mx-auto my-3 w-75 text-center alert alert-success h5"
-        role="alert" id="mostrarUserName">Usuario  
+        role="alert" id="mostrarUserName">Usuario <%= userInfo.name %> <%= userInfo.lastName %> 
     </div>
-    <!-- <div class="d-block mx-auto my-3 w-75 text-center alert alert-success h5" role="alert" id="mostrarUserName">Usuario: %= username %></div> -->
+    <br>
         <h2 class="d-block mx-auto my-3 text-center">History</h2>
         <div class="d-block mx-auto mb-3 text-center w-75">
         <%- include('../partials/dataProductTable'); %>

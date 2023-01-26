@@ -87,6 +87,18 @@ class ProductosDaoMongoDB extends ContenedorMongoDB {
         }
     }
 
+
+    async deleteProduct(id) {
+        try {
+            const product = await Productos.findByIdAndRemove(`${id}`)
+            console.log('Producto encontrado: ',product)
+            return product
+        } catch (error) {
+            
+        }
+    }
+
+
     async emptyCart(id){
         try {
             const productDeleted = await Productos.deleteOne({ "_id": `${id}` })  //{name: 'Peter'}

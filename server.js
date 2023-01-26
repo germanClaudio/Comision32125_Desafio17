@@ -63,7 +63,7 @@ const initServer = () => {
         }),
         httpOnly: true,
         cookie: {
-            maxAge: 1800000,
+            maxAge: 1000 * 60 * 60 * 1,
         },
         resave: true, 
         saveUninitialized: true

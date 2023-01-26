@@ -89,7 +89,7 @@ class UsuariosDaoMongoDB extends ContainerMongoDB {
     async getUserByUsername(username){
         try {
             const user = await Usuarios.findOne( {username: `${username}`} )
-            logger.info('usuario: ', user)
+            logger.info('usuario ', user)
             return user
         } catch (error) {
             logger.error(error)
@@ -97,7 +97,7 @@ class UsuariosDaoMongoDB extends ContainerMongoDB {
     }
 
     async getUserByUsernameAndPass(username, password) { 
-        logger.info('username--pass-- ', username)
+        logger.info('username&pass', username)
         try {
             const user = await Usuarios.findOne( {username: `${username}`, password: `${password}` } )
             

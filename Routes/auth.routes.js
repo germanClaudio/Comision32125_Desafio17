@@ -11,7 +11,7 @@ const authRouter = Router()
 
 const serverMongoDB = require('../usuarios/userMongoDB')  //  ../daos/usuarios/UsuariosDaoMongoDB.js
 const constructor = serverMongoDB.ServerMongoDB
-const server = new constructor() //serverMongoDB.serverMongoDB
+const server = new constructor()
 
 const bCrypt = require('bcrypt');
 
@@ -28,7 +28,6 @@ authRouter.get('/login', (req, res) => { // lleva la vista del formulario de log
 // }))
 
 authRouter.post('/login', countVisits ,async (req, res) => {
-
     try {
         const { username } = req.body
         let { password } = req.body
@@ -44,21 +43,17 @@ authRouter.post('/login', countVisits ,async (req, res) => {
 
         const boolean = isValidPassword(user, password)
 
-        console.log('boolean: ' + boolean)
-
         if (boolean) {
             const usuario = await server.getUserByUsernameAndPass(username, user.password)
             const userInfo = await server.getUserByUsername(username)
 
-            console.log('error usuario: no encuentra usuario en Mongo', usuario)
-
             if (!usuario) {
-                return res.render('register', { flag }) // return res.json({ error: 'Usuario no existe!!' });
+                return res.render('register', { flag })
             } else {
                 const access_token = generateToken(usuario)
                 req.session.admin = true
                 logger.info('usuario loggeado!')
-                return res.render('index', { userInfo, username, visits, flag } )
+                return res.render('index', { userInfo, username, visits, flag })
             }
         } else {
             const flag = false
@@ -70,28 +65,29 @@ authRouter.post('/login', countVisits ,async (req, res) => {
         const flag = false
         const fail = true
         return res.render('login', { flag, fail } )
-        // res.status(500).send(error)
     }
 })
 
 //----------------------------------------------------------------
 authRouter.get('/historial', checkAuthentication, async (req, res) => {
     
-    // const userInfo = await server.getUserByUsername(username)
+    const userInfo = await server.getUserByUsername(req.session.username)
+    
     try {
-        return res.render('historial')//{{userInfo: req.user.username  })
+        return res.render('historial', { userInfo })
     } catch (error) {
         res.status(500).send(error)
     }
 })
 
-authRouter.get('/index', checkAuthentication, countVisits, async (req, res) => {
-    // const userInfo = await server.getUserByUsername(username)
-    let visits = req.session.visits
-    const userInfo = req.session.username
+authRouter.get('/index', checkAuthentication, async (req, res) => {
+   
+    const userInfo = await server.getUserByUsername(req.session.username)
+    const visits = req.session.visits
+
     try {
-        logger.info('usuario session: ', req.session.username)
-        return res.render('index')//, { userInfo, visits }) // , { userInfo, username: req.session.user, visitas: req.session.visits })
+        logger.info('usuario session: ', { userInfo, visits })
+        return res.render('index', { userInfo, visits }) 
     } catch (error) {
         res.status(500).send(error)
     }
@@ -137,7 +133,7 @@ authRouter.post('/register', (req, res) => { // registra un usuario
                   password,
                   bCrypt.genSaltSync(10),
                   null);
-      }
+    }
     
     password = createHash(password)
 
@@ -170,12 +166,14 @@ authRouter.post('/register', (req, res) => { // registra un usuario
 
 //____________________________ logout __________________________________ //
 
-authRouter.get('/logout', (req, res) => { // cierra la sesion
+authRouter.get('/logout', checkAuthentication, async (req, res) => { // cierra la sesion
+    
+    const userInfo = await server.getUserByUsername(req.session.username)
     
     req.session.destroy(err => {
-        // if(err) return res.send(err)
+        if(err) return res.send(err)
         try {
-            return res.render('logout')
+            return res.render('logout', { userInfo })
         } catch(err) {
             return res.json(err)
         }
