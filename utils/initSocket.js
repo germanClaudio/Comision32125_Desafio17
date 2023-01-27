@@ -26,6 +26,12 @@ const initSocket = (io) => {
             io.sockets.emit('productsAll', await containerProduct.getAllProducts())
         })
 
+        socket.on('updateProducto', async (producto) => {
+            logger.info('Data servidor: ' + producto)
+            await containerProduct.updateProduct(producto)
+            io.sockets.emit('productsAll', await containerProduct.getAllProducts())
+        })
+
         // -------------------------  Only One  -------------------------------
         // socket.emit('showOnlyOneProduct', await containerProduct.getAllProducts() )
 

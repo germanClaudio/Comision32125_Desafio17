@@ -1493,3 +1493,763 @@
 {"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
 {"level":"info","message":"User desconectado"}
 {"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":236,"stock":7,"timestamp":"23/01/2023, 13:15:32"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":236,"stock":7,"timestamp":"23/01/2023, 13:15:32"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":87,"stock":12,"timestamp":"10/10/2022, 16:35:40"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":236,"stock":7,"timestamp":"23/01/2023, 13:15:32"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":null}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":87,"stock":12,"timestamp":"10/10/2022, 16:35:40"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":236,"stock":7,"timestamp":"23/01/2023, 13:15:32"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_6.jpg","price":235,"stock":8,"timestamp":"24/01/2023, 12:05:46"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":87,"stock":12,"timestamp":"10/10/2022, 16:35:40"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":87,"stock":12,"timestamp":"10/10/2022, 16:35:40"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":87,"stock":12,"timestamp":"10/10/2022, 16:35:40"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":87,"stock":12,"timestamp":"10/10/2022, 16:35:40"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":87,"stock":12,"timestamp":"10/10/2022, 16:35:40"},"level":"info","message":"Producto encontrado: "}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":87,"stock":12,"timestamp":"10/10/2022, 16:35:40"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":87,"stock":12,"timestamp":"10/10/2022, 16:35:40"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec2c96e2d51803c177440","code":"CH654","description":"Marca CoderHouse - 100ml","name":"Perfume Aromas del Cairo","picture":"http://localhost:4000/Perfume_3.jpg","price":325,"stock":6,"timestamp":"23/01/2023, 14:24:25"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec2c96e2d51803c177440","code":"CH654","description":"Marca CoderHouse - 100ml","name":"Perfume Aromas del Cairo","picture":"http://localhost:4000/Perfume_3.jpg","price":325,"stock":6,"timestamp":"23/01/2023, 14:24:25"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec2c96e2d51803c177440","code":"CH654","description":"Marca CoderHouse - 100ml","name":"Perfume Aromas del Cairo","picture":"http://localhost:4000/Perfume_3.jpg","price":325,"stock":6,"timestamp":"23/01/2023, 14:24:25"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec2c96e2d51803c177440","code":"CH654","description":"Marca CoderHouse - 100ml","name":"Perfume Aromas del Cairo","picture":"http://localhost:4000/Perfume_3.jpg","price":325,"stock":6,"timestamp":"23/01/2023, 14:24:25"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec2c96e2d51803c177440","code":"CH654","description":"Marca CoderHouse - 100ml","name":"Perfume Aromas del Cairo","picture":"http://localhost:4000/Perfume_3.jpg","price":325,"stock":6,"timestamp":"23/01/2023, 14:24:25"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec2c96e2d51803c177440","code":"CH654","description":"Marca CoderHouse - 100ml","name":"Perfume Aromas del Cairo","picture":"http://localhost:4000/Perfume_3.jpg","price":325,"stock":6,"timestamp":"23/01/2023, 14:24:25"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceba7f1fd67be70198b7da","code":"FG951","description":"Marca Aviar - 100ml","name":"Perfume Pollo Fresco","picture":"http://localhost:4000/Perfume_5.jpg","price":235,"stock":8,"timestamp":"23/01/2023, 13:49:03"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":236,"stock":7,"timestamp":"23/01/2023, 13:15:32"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":236,"stock":7,"timestamp":"23/01/2023, 13:15:32"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":236,"stock":7,"timestamp":"23/01/2023, 13:15:32"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c58c7f53cb0886bd01e6b2","email":"nito@gmail.com","lastName":"Brusa","name":"Nito","password":"$2b$10$4a1AfqsvAwHTXsUDBnS/FuzRmCOz/ZvumSzKhBTtxyw3aaDzwlnM6","username":"nito"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":236,"stock":7,"timestamp":"23/01/2023, 13:15:32"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":236,"stock":7,"timestamp":"23/01/2023, 13:15:32"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":236,"stock":7,"timestamp":"23/01/2023, 13:15:32"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  dataBody is not defined","stack":"ReferenceError: dataBody is not defined\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:80:24)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  dataBody is not defined","stack":"ReferenceError: dataBody is not defined\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:80:24)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  dataBody is not defined","stack":"ReferenceError: dataBody is not defined\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:80:24)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  dataBody is not defined","stack":"ReferenceError: dataBody is not defined\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:80:24)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  name is not defined","stack":"ReferenceError: name is not defined\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:94:28)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  Callback must be a function, got [object Object]","stack":"MongooseError: Callback must be a function, got [object Object]\n    at Model.$handleCallbackError (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:5206:11)\n    at Model.findByIdAndUpdate (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:2759:19)\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:93:52)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  Callback must be a function, got [object Object]","stack":"MongooseError: Callback must be a function, got [object Object]\n    at Model.$handleCallbackError (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:5206:11)\n    at Model.findByIdAndUpdate (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:2759:19)\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:93:52)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  Callback must be a function, got [object Object]","stack":"MongooseError: Callback must be a function, got [object Object]\n    at Model.$handleCallbackError (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:5206:11)\n    at Model.findByIdAndUpdate (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:2759:19)\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:93:52)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  Callback must be a function, got [object Object]","stack":"MongooseError: Callback must be a function, got [object Object]\n    at Model.$handleCallbackError (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:5206:11)\n    at Model.findByIdAndUpdate (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:2759:19)\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:95:52)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  Callback must be a function, got [object Object]","stack":"MongooseError: Callback must be a function, got [object Object]\n    at Model.$handleCallbackError (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:5206:11)\n    at Model.findByIdAndUpdate (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:2759:19)\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:87:52)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  Callback must be a function, got [object Object]","stack":"MongooseError: Callback must be a function, got [object Object]\n    at Model.$handleCallbackError (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:5206:11)\n    at Model.findByIdAndUpdate (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:2759:19)\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:87:52)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  Callback must be a function, got [object Object]","stack":"MongooseError: Callback must be a function, got [object Object]\n    at Model.$handleCallbackError (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:5206:11)\n    at Model.findByIdAndUpdate (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:2759:19)\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:85:52)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"error","message":"Error MongoDB updateProduct:  Callback must be a function, got [object Object]","stack":"MongooseError: Callback must be a function, got [object Object]\n    at Model.$handleCallbackError (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:5206:11)\n    at Model.findByIdAndUpdate (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\model.js:2759:19)\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:85:52)\n    at Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:36)\n    at Socket.emit (node:events:527:28)\n    at Socket.emitUntyped (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\socket.io\\dist\\socket.js:475:39\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":null}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":null}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_6.jpg","price":235,"stock":8,"timestamp":"24/01/2023, 12:05:46"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Carioca","picture":"http://localhost:4000/Perfume_2.jpg","price":75,"stock":9,"timestamp":"29/9/2022, 09:14:59"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Cariocas","picture":"http://localhost:4000/Perfume_2.jpg","price":125,"stock":11,"timestamp":"27/01/2023, 12:54:58"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":87,"stock":12,"timestamp":"10/10/2022, 16:35:40"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78d","code":"AP190","description":"Marca Pepsico - 100ml","name":"Perfume Cariocas","picture":"http://localhost:4000/Perfume_2.jpg","price":125,"stock":11,"timestamp":"27/01/2023, 12:54:58"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceba7f1fd67be70198b7da","code":"FG951","description":"Marca Aviar - 100ml","name":"Perfume Pollo Fresco","picture":"http://localhost:4000/Perfume_5.jpg","price":235,"stock":8,"timestamp":"23/01/2023, 13:49:03"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_6.jpg","price":250,"stock":17,"timestamp":"24/01/2023, 12:05:46"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_5.jpg","price":250,"stock":17,"timestamp":"27/01/2023, 13:30:28"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec2c96e2d51803c177440","code":"CH654","description":"Marca CoderHouse - 100ml","name":"Perfume Aromas del Cairo","picture":"http://localhost:4000/Perfume_3.jpg","price":325,"stock":6,"timestamp":"23/01/2023, 14:24:25"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_5.jpg","price":250,"stock":17,"timestamp":"27/01/2023, 13:30:28"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_5.jpg","price":250,"stock":22,"timestamp":"27/01/2023, 13:34:34"},"level":"info","message":"Producto actualizado "}
+{"level":"error","message":"Error MongoDB updateProduct:  res is not defined","stack":"ReferenceError: res is not defined\n    at ProductosDaoMongoDB.updateProduct (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:93:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Socket.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:31:13)"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":99,"stock":14,"timestamp":"27/01/2023, 12:57:15"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":85,"stock":18,"timestamp":"27/01/2023, 13:39:25"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":236,"stock":38,"timestamp":"23/01/2023, 13:15:32"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:42:16"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS456","description":"Marca Messi - 50ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_6.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:42:16"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec2c96e2d51803c177440","code":"CH654","description":"Marca CoderHouse - 100ml","name":"Perfume Aromas del Cairo","picture":"http://localhost:4000/Perfume_3.jpg","price":325,"stock":6,"timestamp":"23/01/2023, 14:24:25"},"level":"info","message":"Producto encontrado: "}
+{"kind":"ObjectId","level":"error","message":"Error MongoDB getOneProducts:  Cast to ObjectId failed for value \"sweetalert2.all.min.js\" (type string) at path \"_id\" for model \"Productos\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"sweetalert2.all.min.js\" (type string) at path \"_id\" for model \"Productos\"\n    at model.Query.exec (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\query.js:4897:21)\n    at Query.then (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\node_modules\\mongoose\\lib\\query.js:4996:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","stringValue":"\"sweetalert2.all.min.js\"","value":"sweetalert2.all.min.js","valueType":"string"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec2c96e2d51803c177440","code":"CH654","description":"Marca CoderHouse - 100ml","name":"Perfume Aromas del Cairo","picture":"http://localhost:4000/Perfume_3.jpg","price":325,"stock":8,"timestamp":"27/01/2023, 14:26:33"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":85,"stock":18,"timestamp":"27/01/2023, 13:39:25"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":99,"stock":18,"timestamp":"27/01/2023, 14:37:03"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto encontrado: "}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto encontrado: "}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto encontrado: "}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto encontrado: "}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto encontrado: "}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto encontrado: "}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto encontrado: "}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63ceb2a455909e6ae43d0df7","code":"WS559","description":"Marca Messi - 75ml","name":"Perfume Barcelona","picture":"http://localhost:4000/Perfume_1.jpg","price":120,"stock":15,"timestamp":"27/01/2023, 13:44:01"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":99,"stock":18,"timestamp":"27/01/2023, 14:37:03"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":99,"stock":29,"timestamp":"27/01/2023, 15:41:29"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_4.jpg","price":99,"stock":29,"timestamp":"27/01/2023, 15:41:29"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_1.jpg","price":99,"stock":29,"timestamp":"27/01/2023, 15:42:02"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_1.jpg","price":99,"stock":29,"timestamp":"27/01/2023, 15:42:02"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_3.jpg","price":99,"stock":29,"timestamp":"27/01/2023, 15:42:15"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_5.jpg","price":250,"stock":22,"timestamp":"27/01/2023, 13:34:34"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_4.jpg","price":250,"stock":22,"timestamp":"27/01/2023, 15:42:30"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_4.jpg","price":250,"stock":22,"timestamp":"27/01/2023, 15:42:30"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_6.jpg","price":250,"stock":22,"timestamp":"27/01/2023, 15:42:46"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_3.jpg","price":99,"stock":29,"timestamp":"27/01/2023, 15:42:15"},"level":"info","message":"Producto encontrado: "}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_3.jpg","price":99,"stock":29,"timestamp":"27/01/2023, 15:42:15"},"level":"info","message":"Producto encontrado: "}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_3.jpg","price":99,"stock":29,"timestamp":"27/01/2023, 15:42:15"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c6bc59ee5efe6a672cb066","email":"mfrat@gmail.com","lastName":"Frattini","name":"Martin","password":"$2b$10$2GQXW7IZJ/iQpgq0SkMLRuRZ0SdTG2w/2DjFmMlLVg3ahIRqp5BAq","username":"martin"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_3.jpg","price":99,"stock":29,"timestamp":"27/01/2023, 15:42:15"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c6bc59ee5efe6a672cb066","email":"mfrat@gmail.com","lastName":"Frattini","name":"Martin","password":"$2b$10$2GQXW7IZJ/iQpgq0SkMLRuRZ0SdTG2w/2DjFmMlLVg3ahIRqp5BAq","username":"martin"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec49f96466a05bc284f96","code":"CV213","description":"Marca Cañon","name":"Perfume Caldo Verdura","picture":"http://localhost:4000/Perfume_4.jpg","price":123,"stock":3,"timestamp":"23/01/2023, 14:32:15"},"level":"info","message":"Producto encontrado: "}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec49f96466a05bc284f96","code":"CV213","description":"Marca Cañon","name":"Perfume Caldo Verdura","picture":"http://localhost:4000/Perfume_4.jpg","price":123,"stock":3,"timestamp":"23/01/2023, 14:32:15"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c6bc59ee5efe6a672cb066","email":"mfrat@gmail.com","lastName":"Frattini","name":"Martin","password":"$2b$10$2GQXW7IZJ/iQpgq0SkMLRuRZ0SdTG2w/2DjFmMlLVg3ahIRqp5BAq","username":"martin"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec49f96466a05bc284f96","code":"CV213","description":"Marca Cañon","name":"Perfume Caldo Verdura","picture":"http://localhost:4000/Perfume_4.jpg","price":123,"stock":3,"timestamp":"23/01/2023, 14:32:15"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cec49f96466a05bc284f96","code":"CV213","description":"Marca Cañon","name":"Perfume Caldo Verdura","picture":"http://localhost:4000/Perfume_4.jpg","price":123,"stock":5,"timestamp":"27/01/2023, 15:47:39"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c6bc59ee5efe6a672cb066","email":"mfrat@gmail.com","lastName":"Frattini","name":"Martin","password":"$2b$10$2GQXW7IZJ/iQpgq0SkMLRuRZ0SdTG2w/2DjFmMlLVg3ahIRqp5BAq","username":"martin"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"info","message":"Product created"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63d41db1c3cda9922435d966","code":"AZ124","description":"Marca Aviar - 100ml","name":"Perfume Geranios","picture":"http://localhost:4000/Perfume_6.jpg","price":150,"stock":7,"timestamp":"27/01/2023, 15:53:37"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63d41db1c3cda9922435d966","code":"AZ124","description":"Marca Aviar - 100ml","name":"Perfume Geranios","picture":"http://localhost:4000/Perfume_6.jpg","price":150,"stock":10,"timestamp":"27/01/2023, 15:53:49"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c6bc59ee5efe6a672cb066","email":"mfrat@gmail.com","lastName":"Frattini","name":"Martin","password":"$2b$10$2GQXW7IZJ/iQpgq0SkMLRuRZ0SdTG2w/2DjFmMlLVg3ahIRqp5BAq","username":"martin"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include('../partials/head'); %>
+</head>
+
+<body>
+    <header>
+        <%- include('../partials/header'); %>
+    </header>
+    <div class="d-block mx-auto my-3 w-75 text-center alert alert-success h5"
+        role="alert" id="mostrarUserName">Administrador <%= userInfo.name %> <%= userInfo.lastName %> 
+    </div>
+    <h3 class="d-block mx-auto my-2 text-center">Update your Product</h3>
+    <%- include('../partials/productDetailsCard'); %>
+    <%- include('../partials/formUpdateProduct'); %>
+    <br>
+    <%- include('../partials/footer'); %>
+
+        <!--    scripts     -->
+        <script type="text/javascript" src="../../../index.js"></script>
+                    
+</body>
+
+</html>

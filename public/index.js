@@ -78,7 +78,7 @@ const renderProduct = (arrProd) => {
     
         return (`<div class="col m-3">
                     <div class="card h-100" style="width: 18rem;">
-                        <img src="${element.picture}" class="card-img-top" alt="Picture not Founded">
+                        <img src="${element.picture}" class="card-img-top" alt="Picture not Founded" height="215px" >
                         <div class="card-body">
                             <h6 class="card-title"><strong>${element.name}</strong></h6>
                             <p class="card-text">${element.description}<br>
@@ -86,9 +86,10 @@ const renderProduct = (arrProd) => {
                                                 Code: ${element.code}<br>
                                                 Stock: ${element.stock}<br>
                                                 Id# ${element._id}</p>
-                                <a href="#" class="btn btn-primary mx-1"><i class="fa fa-shopping-cart"></i></a>
-                                <a href="/api/productos/${element._id}" class="btn btn-secondary mx-1"><i class="fa fa-pencil"></i></a>
-                                <a href="/api/productos/delete/${element._id}" class="btn btn-danger mx-1"><i class="fa fa-trash"></i></a>
+                                <hr>                
+                                <a href="#" class="btn btn-primary mx-auto"><i class="fa fa-shopping-cart"></i></a>
+                                <a href="/api/productos/update/${element._id}" class="btn btn-secondary mx-auto"><i class="fa fa-pencil"></i></a>
+                                <a href="/api/productos/delete/${element._id}" class="btn btn-danger mx-auto"><i class="fa fa-trash"></i></a>
                         </div>
                     </div>
                 </div>`
@@ -143,3 +144,20 @@ const renderOnlyOneProduct = (addProduct) => {
     
     document.getElementById('nameSearch').value = ""
 }
+
+
+
+const updateProduct = () => {
+    const _id = document.getElementById('id').value
+    const name = document.getElementById('name').value
+    const timestamp = new Date().toLocaleString('en-GB')
+    const description = document.getElementById('description').value
+    const price = Number(document.getElementById('price').value)
+    const picture = document.getElementById('picture').value
+    const code = document.getElementById('code').value
+    const stock = Number(document.getElementById('stock').value)
+
+    socket.emit('updateProducto', { _id, name, timestamp, description, price, picture, code, stock })
+    return false
+
+}    

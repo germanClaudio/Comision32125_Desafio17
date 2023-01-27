@@ -4,7 +4,6 @@ const { options } = require('../../options/config.js')
 const Productos = require('../../models/productos.models.js')
 const logger = require('../../utils/winston.js')
 
-
 class ProductosDaoMongoDB extends ContenedorMongoDB {
     constructor() {
         super(options.mongoDB.connection.URL)
@@ -73,15 +72,26 @@ class ProductosDaoMongoDB extends ContenedorMongoDB {
         }
     }
 
-    async updateProduct(id, dataBody, timestamp){
+    async updateProduct(producto){
+
         try {
-            const newValues = {
-                 $set: dataBody,
-                 timestamp: timestamp
+             const newValues = {
+                name: producto.name,
+                description: producto.description,
+                price: producto.price,
+                code: producto.code,
+                picture: producto.picture,
+                stock: producto.stock,
+                timestamp: producto.timestamp
             }
-            const product = await Productos.updateOne({ _id: id}, newValues)
-            logger.info('Producto actualizado ', product)
-            return product
+            
+            const productUpdated = await Productos.findOneAndUpdate(
+                { _id: producto._id }, newValues , { new: true })
+
+            logger.info('Producto actualizado ', productUpdated)
+            
+            return productUpdated
+           
         } catch (error) {
             logger.error("Error MongoDB updateProduct: ",error)
         }
@@ -89,6 +99,7 @@ class ProductosDaoMongoDB extends ContenedorMongoDB {
 
 
     async deleteProduct(id) {
+
         try {
             const product = await Productos.findByIdAndRemove(`${id}`)
             console.log('Producto encontrado: ',product)
