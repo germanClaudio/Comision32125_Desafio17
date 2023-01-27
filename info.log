@@ -2253,3 +2253,179 @@
 {"level":"info","message":"User desconectado"}
 {"level":"info","message":"Nuevo cliente conectado!"}
 {"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c6bc59ee5efe6a672cb066","email":"mfrat@gmail.com","lastName":"Frattini","name":"Martin","password":"$2b$10$2GQXW7IZJ/iQpgq0SkMLRuRZ0SdTG2w/2DjFmMlLVg3ahIRqp5BAq","username":"martin"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"_message":"Mensajes validation failed","errors":{"author.age":{"kind":"required","message":"Path `author.age` is required.","name":"ValidatorError","path":"author.age","properties":{"message":"Path `author.age` is required.","path":"author.age","type":"required"}}},"level":"error","message":"Mensajes validation failed: author.age: Path `author.age` is required.","name":"ValidationError"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"_message":"Mensajes validation failed","errors":{"author.age":{"kind":"required","message":"Path `author.age` is required.","name":"ValidatorError","path":"author.age","properties":{"message":"Path `author.age` is required.","path":"author.age","type":"required"}}},"level":"error","message":"Mensajes validation failed: author.age: Path `author.age` is required.","name":"ValidationError"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"_message":"Mensajes validation failed","errors":{"author.age":{"kind":"required","message":"Path `author.age` is required.","name":"ValidatorError","path":"author.age","properties":{"message":"Path `author.age` is required.","path":"author.age","type":"required"}}},"level":"error","message":"Mensajes validation failed: author.age: Path `author.age` is required.","name":"ValidationError"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"_message":"Mensajes validation failed","errors":{"author.age":{"kind":"required","message":"Path `author.age` is required.","name":"ValidatorError","path":"author.age","properties":{"message":"Path `author.age` is required.","path":"author.age","type":"required"}}},"level":"error","message":"Mensajes validation failed: author.age: Path `author.age` is required.","name":"ValidationError"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"_message":"Mensajes validation failed","errors":{"author.age":{"kind":"required","message":"Path `author.age` is required.","name":"ValidatorError","path":"author.age","properties":{"message":"Path `author.age` is required.","path":"author.age","type":"required"}}},"level":"error","message":"Mensajes validation failed: author.age: Path `author.age` is required.","name":"ValidationError"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"_message":"Mensajes validation failed","errors":{"author.age":{"kind":"required","message":"Path `author.age` is required.","name":"ValidatorError","path":"author.age","properties":{"message":"Path `author.age` is required.","path":"author.age","type":"required"}}},"level":"error","message":"Mensajes validation failed: author.age: Path `author.age` is required.","name":"ValidationError"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"_message":"Mensajes validation failed","errors":{"author.age":{"kind":"required","message":"Path `author.age` is required.","name":"ValidatorError","path":"author.age","properties":{"message":"Path `author.age` is required.","path":"author.age","type":"required"}},"author.alias":{"kind":"required","message":"Path `author.alias` is required.","name":"ValidatorError","path":"author.alias","properties":{"message":"Path `author.alias` is required.","path":"author.alias","type":"required","value":""},"value":""},"author.email":{"kind":"required","message":"Path `author.email` is required.","name":"ValidatorError","path":"author.email","properties":{"message":"Path `author.email` is required.","path":"author.email","type":"required","value":""},"value":""},"text":{"kind":"required","message":"Path `text` is required.","name":"ValidatorError","path":"text","properties":{"message":"Path `text` is required.","path":"text","type":"required","value":""},"value":""}},"level":"error","message":"Mensajes validation failed: author.alias: Path `author.alias` is required., author.age: Path `author.age` is required., author.email: Path `author.email` is required., text: Path `text` is required.","name":"ValidationError"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"_message":"Mensajes validation failed","errors":{"author.age":{"kind":"required","message":"Path `author.age` is required.","name":"ValidatorError","path":"author.age","properties":{"message":"Path `author.age` is required.","path":"author.age","type":"required"}}},"level":"error","message":"Mensajes validation failed: author.age: Path `author.age` is required.","name":"ValidationError"}
+{"level":"info","message":[]}
+{"level":"info","message":"No messages found"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[{"_id":"63d42d2403e71f2bae2df273","author":{"alias":"papapa","apellido":"Aquino","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/144.jpg","edad":"35","email":"mariano.aquino@gmail.com","nombre":"Mariano"},"fyh":"8/28/2021, 9:44:58 PM","id":1,"text":"peobando 21:44"},{"_id":"63d42d2403e71f2bae2df274","author":{"alias":"luchachas","apellido":"vera","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/666.jpg","edad":"27","email":"correodementira","nombre":"luchachucha"},"fyh":"8/28/2021, 9:46:38 PM","id":2,"text":"holiii como estas?"},{"_id":"63d42d2403e71f2bae2df275","author":{"alias":"pfdsfdsfdsfdsfdsa","apellido":"Perro","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/125.jpg","edad":"32","email":"donadona@gmail.com","nombre":"Pablo"},"fyh":"8/28/2021, 9:47:07 PM","id":3,"text":"re bieeen, funcionaa!!"},{"_id":"63d42d2403e71f2bae2df276","author":{"alias":"luchaaasssss","apellido":"Paladini","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/555.jpg","edad":"22","email":"picapiedra","nombre":"morenas"},"fyh":"8/28/2021, 9:47:14 PM","id":4,"text":"iupiiiiii"},{"_id":"63d42d2403e71f2bae2df277","author":{"alias":"lauchas","apellido":"SantaFe","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/250.jpg","edad":"24","email":"cor@mentira.com","nombre":"lauchon"},"fyh":"9/15/2022, 9:47:14 PM","id":5,"text":"por dioooooo"},{"_id":"63d42d2403e71f2bae2df278","author":{"alias":"Picarrr","apellido":"Marmol","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/159.jpg","edad":"5","email":"mar@azul.com","nombre":"Pablo"},"fyh":"9/15/2022, 9:47:14 PM","id":6,"text":"pNoooooooooo"},{"_id":"63d42d2403e71f2bae2df279","author":{"alias":"Bragueta salvaje","apellido":"Monti","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/999.jpg","edad":"22","email":"gemo@gmail.com","nombre":"Germano"},"fyh":"11/11/2022, 16:39:22","id":7,"text":"dsasdsasasadsacassasaccssacascascsa"},{"_id":"63d42d2403e71f2bae2df27a","author":{"alias":"Me fui a la B","apellido":"Plate","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/888.jpg","edad":"50","email":"riber@gmail.com","nombre":"Riber"},"fyh":"11/11/2022, 16:40:44","id":8,"text":"Me fui a la B!! Nooo."},{"_id":"63d42d2403e71f2bae2df27b","author":{"alias":"Red","apellido":"Redondo","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/858.jpg","edad":"49","email":"redondo@gmail.com","nombre":"Jijiji"},"fyh":"11/11/2022, 16:48:20","id":9,"text":"Jajajajaja"},{"_id":"63d42d2403e71f2bae2df27c","author":{"alias":"Lager","apellido":"Quilmes","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/758.jpg","edad":"22","email":"cerveza@gmail.com","nombre":"Brahma"},"fyh":"11/11/2022, 21:09:43","id":10,"text":"Chevechaaaaa"},{"_id":"63d42d2403e71f2bae2df27d","author":{"alias":"kantro","apellido":"LastName","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/99.jpg","edad":"22","email":"fnadal@fnadal.com","nombre":"Numbus"},"fyh":"21/12/2022, 14:47:42","id":11,"text":"Campeones del Mundo!!!!!!"},{"_id":"63d42d2403e71f2bae2df27e","author":{"alias":"Avatar","apellido":"Redondo","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/155.jpg","edad":"22","email":"gemontalbetti@gmail.com","nombre":"Germano"},"fyh":"18/1/2023, 12:49:57","id":12,"text":"xXXxxfasfsdgwgwe"}]}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[{"_id":"63d42d2403e71f2bae2df273","author":{"alias":"papapa","apellido":"Aquino","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/144.jpg","edad":"35","email":"mariano.aquino@gmail.com","nombre":"Mariano"},"fyh":"8/28/2021, 9:44:58 PM","id":1,"text":"peobando 21:44"},{"_id":"63d42d2403e71f2bae2df274","author":{"alias":"luchachas","apellido":"vera","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/666.jpg","edad":"27","email":"correodementira","nombre":"luchachucha"},"fyh":"8/28/2021, 9:46:38 PM","id":2,"text":"holiii como estas?"},{"_id":"63d42d2403e71f2bae2df275","author":{"alias":"pfdsfdsfdsfdsfdsa","apellido":"Perro","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/125.jpg","edad":"32","email":"donadona@gmail.com","nombre":"Pablo"},"fyh":"8/28/2021, 9:47:07 PM","id":3,"text":"re bieeen, funcionaa!!"},{"_id":"63d42d2403e71f2bae2df276","author":{"alias":"luchaaasssss","apellido":"Paladini","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/555.jpg","edad":"22","email":"picapiedra","nombre":"morenas"},"fyh":"8/28/2021, 9:47:14 PM","id":4,"text":"iupiiiiii"},{"_id":"63d42d2403e71f2bae2df277","author":{"alias":"lauchas","apellido":"SantaFe","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/250.jpg","edad":"24","email":"cor@mentira.com","nombre":"lauchon"},"fyh":"9/15/2022, 9:47:14 PM","id":5,"text":"por dioooooo"},{"_id":"63d42d2403e71f2bae2df278","author":{"alias":"Picarrr","apellido":"Marmol","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/159.jpg","edad":"5","email":"mar@azul.com","nombre":"Pablo"},"fyh":"9/15/2022, 9:47:14 PM","id":6,"text":"pNoooooooooo"},{"_id":"63d42d2403e71f2bae2df279","author":{"alias":"Bragueta salvaje","apellido":"Monti","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/999.jpg","edad":"22","email":"gemo@gmail.com","nombre":"Germano"},"fyh":"11/11/2022, 16:39:22","id":7,"text":"dsasdsasasadsacassasaccssacascascsa"},{"_id":"63d42d2403e71f2bae2df27a","author":{"alias":"Me fui a la B","apellido":"Plate","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/888.jpg","edad":"50","email":"riber@gmail.com","nombre":"Riber"},"fyh":"11/11/2022, 16:40:44","id":8,"text":"Me fui a la B!! Nooo."},{"_id":"63d42d2403e71f2bae2df27b","author":{"alias":"Red","apellido":"Redondo","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/858.jpg","edad":"49","email":"redondo@gmail.com","nombre":"Jijiji"},"fyh":"11/11/2022, 16:48:20","id":9,"text":"Jajajajaja"},{"_id":"63d42d2403e71f2bae2df27c","author":{"alias":"Lager","apellido":"Quilmes","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/758.jpg","edad":"22","email":"cerveza@gmail.com","nombre":"Brahma"},"fyh":"11/11/2022, 21:09:43","id":10,"text":"Chevechaaaaa"},{"_id":"63d42d2403e71f2bae2df27d","author":{"alias":"kantro","apellido":"LastName","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/99.jpg","edad":"22","email":"fnadal@fnadal.com","nombre":"Numbus"},"fyh":"21/12/2022, 14:47:42","id":11,"text":"Campeones del Mundo!!!!!!"},{"_id":"63d42d2403e71f2bae2df27e","author":{"alias":"Avatar","apellido":"Redondo","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/155.jpg","edad":"22","email":"gemontalbetti@gmail.com","nombre":"Germano"},"fyh":"18/1/2023, 12:49:57","id":12,"text":"xXXxxfasfsdgwgwe"}]}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":[{"_id":"63d42d2403e71f2bae2df273","author":{"alias":"papapa","apellido":"Aquino","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/144.jpg","edad":"35","email":"mariano.aquino@gmail.com","nombre":"Mariano"},"fyh":"8/28/2021, 9:44:58 PM","id":1,"text":"peobando 21:44"},{"_id":"63d42d2403e71f2bae2df274","author":{"alias":"luchachas","apellido":"vera","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/666.jpg","edad":"27","email":"correodementira","nombre":"luchachucha"},"fyh":"8/28/2021, 9:46:38 PM","id":2,"text":"holiii como estas?"},{"_id":"63d42d2403e71f2bae2df275","author":{"alias":"pfdsfdsfdsfdsfdsa","apellido":"Perro","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/125.jpg","edad":"32","email":"donadona@gmail.com","nombre":"Pablo"},"fyh":"8/28/2021, 9:47:07 PM","id":3,"text":"re bieeen, funcionaa!!"},{"_id":"63d42d2403e71f2bae2df276","author":{"alias":"luchaaasssss","apellido":"Paladini","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/555.jpg","edad":"22","email":"picapiedra","nombre":"morenas"},"fyh":"8/28/2021, 9:47:14 PM","id":4,"text":"iupiiiiii"},{"_id":"63d42d2403e71f2bae2df277","author":{"alias":"lauchas","apellido":"SantaFe","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/250.jpg","edad":"24","email":"cor@mentira.com","nombre":"lauchon"},"fyh":"9/15/2022, 9:47:14 PM","id":5,"text":"por dioooooo"},{"_id":"63d42d2403e71f2bae2df278","author":{"alias":"Picarrr","apellido":"Marmol","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/159.jpg","edad":"5","email":"mar@azul.com","nombre":"Pablo"},"fyh":"9/15/2022, 9:47:14 PM","id":6,"text":"pNoooooooooo"},{"_id":"63d42d2403e71f2bae2df279","author":{"alias":"Bragueta salvaje","apellido":"Monti","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/999.jpg","edad":"22","email":"gemo@gmail.com","nombre":"Germano"},"fyh":"11/11/2022, 16:39:22","id":7,"text":"dsasdsasasadsacassasaccssacascascsa"},{"_id":"63d42d2403e71f2bae2df27a","author":{"alias":"Me fui a la B","apellido":"Plate","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/888.jpg","edad":"50","email":"riber@gmail.com","nombre":"Riber"},"fyh":"11/11/2022, 16:40:44","id":8,"text":"Me fui a la B!! Nooo."},{"_id":"63d42d2403e71f2bae2df27b","author":{"alias":"Red","apellido":"Redondo","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/858.jpg","edad":"49","email":"redondo@gmail.com","nombre":"Jijiji"},"fyh":"11/11/2022, 16:48:20","id":9,"text":"Jajajajaja"},{"_id":"63d42d2403e71f2bae2df27c","author":{"alias":"Lager","apellido":"Quilmes","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/758.jpg","edad":"22","email":"cerveza@gmail.com","nombre":"Brahma"},"fyh":"11/11/2022, 21:09:43","id":10,"text":"Chevechaaaaa"},{"_id":"63d42d2403e71f2bae2df27d","author":{"alias":"kantro","apellido":"LastName","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/99.jpg","edad":"22","email":"fnadal@fnadal.com","nombre":"Numbus"},"fyh":"21/12/2022, 14:47:42","id":11,"text":"Campeones del Mundo!!!!!!"},{"_id":"63d42d2403e71f2bae2df27e","author":{"alias":"Avatar","apellido":"Redondo","avatar":"https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/155.jpg","edad":"22","email":"gemontalbetti@gmail.com","nombre":"Germano"},"fyh":"18/1/2023, 12:49:57","id":12,"text":"xXXxxfasfsdgwgwe"}]}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"_message":"Mensajes validation failed","errors":{"author.age":{"kind":"required","message":"Path `author.age` is required.","name":"ValidatorError","path":"author.age","properties":{"message":"Path `author.age` is required.","path":"author.age","type":"required"}}},"level":"error","message":"Mensajes validation failed: author.age: Path `author.age` is required.","name":"ValidationError"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"_message":"Mensajes validation failed","errors":{"author.age":{"kind":"required","message":"Path `author.age` is required.","name":"ValidatorError","path":"author.age","properties":{"message":"Path `author.age` is required.","path":"author.age","type":"required"}}},"level":"error","message":"Mensajes validation failed: author.age: Path `author.age` is required.","name":"ValidationError"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":3}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":3}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":3}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":3}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}

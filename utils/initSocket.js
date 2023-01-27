@@ -1,7 +1,8 @@
 const { options } = require("../options/config.js")
 const logger = require('../utils/winston')
-const ContainerMessages = require("../contenedores/containerMessages.js")
-const containerMsg = new ContainerMessages(options.filePath.pathMsg)
+
+const ContainerMessages = require("../daos/mensajes/MensajesDaoMongoDB.js") //../contenedores/containerMessages.js
+const containerMsg = new ContainerMessages(options.mongoDB.connection.URL) //options.filePath.pathMsg
 
 const ContainerProducts = require("../daos/productos/ProductosDaoMongoDB.js")  //../daos/productos/ProductosDaoArchivo.js
 const containerProduct = new ContainerProducts(options.mongoDB.connection.URL) //options.filePath.path
@@ -49,13 +50,15 @@ const initSocket = (io) => {
         
 
     // -----------------------------  Messages ---------------------------------
-        const normalizarMensajes = (mensajesConId) =>
-        normalize(mensajesConId, schemaMensajes)
+        // const normalizarMensajes = (mensajesConId) =>
+        // normalize(mensajesConId, schemaMensajes)
 
         async function listarMensajesNormalizados() {
-            const mensajes = await containerMsg.getAllMsg();
-            const normalizados = normalizarMensajes({ id: "mensajes", mensajes });
-            return normalizados;
+            const mensajes = await containerMsg.getAllMessages();
+            console.log('listarMensajesNormal: ',mensajes)
+            // const normalizados = normalizarMensajes({ mensajes }); //id: "mensajes",
+            
+            return mensajes//normalizados;
             }
 
         // NORMALIZACIÓN DE MENSAJES
@@ -70,7 +73,7 @@ const initSocket = (io) => {
 
         socket.on("newMensaje", async (message) => {
         message.fyh = new Date().toLocaleString()
-        await containerMsg.saveMsg(message) //mensajesApi.addMessage(mensaje)
+        await containerMsg.createMessage(message) //mensajesApi.addMessage(mensaje)
         io.sockets.emit("mensajesAll", await listarMensajesNormalizados())
         })
     
