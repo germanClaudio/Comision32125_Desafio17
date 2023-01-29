@@ -12,7 +12,7 @@ class MensajesDaoMongoDB extends ContainerMongoDB {
     async getAllMessages(){
         try {
             const messages = await Mensajes.find()
-            console.log('mensajes desde getAllMsg: ',messages)
+            //console.log('mensajes desde getAllMsg: ',messages)
             // logger.info(messages)
             if(messages.length > 0){
                 return messages

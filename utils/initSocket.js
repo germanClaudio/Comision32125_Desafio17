@@ -15,7 +15,7 @@ const initSocket = (io) => {
         
         // --------------------------  Products --------------------------------
         // --------------------------    All    --------------------------------  
-        socket.emit('productsAll', await containerProduct.getAllProducts() )   
+        socket.emit('productsAll', await containerProduct.getCotizacionEnDolares() )  //getAllProducts() 
         
         socket.on("productsAll", async (arrProd) => {
             renderProduct(await arrProd)
@@ -24,13 +24,12 @@ const initSocket = (io) => {
         socket.on('newProducto', async (producto) => {
             logger.info('Data servidor: ' + producto)
             await containerProduct.createProduct(producto)
-            io.sockets.emit('productsAll', await containerProduct.getAllProducts())
+            io.sockets.emit('productsAll', await containerProduct.getCotizacionEnDolares())
         })
 
-        socket.on('updateProducto', async (producto) => {
-            logger.info('Data servidor: ' + producto)
-            await containerProduct.updateProduct(producto)
-            io.sockets.emit('productsAll', await containerProduct.getAllProducts())
+        socket.on('deleteProducto', async (producto) => {
+            await containerProduct.deleteProduct(producto)
+            io.sockets.emit('productsAll', await containerProduct.getCotizacionEnDolares())
         })
 
         // -------------------------  Only One  -------------------------------
@@ -55,7 +54,7 @@ const initSocket = (io) => {
 
         async function listarMensajesNormalizados() {
             const mensajes = await containerMsg.getAllMessages();
-            console.log('listarMensajesNormal: ',mensajes)
+            //console.log('listarMensajesNormal: ',mensajes)
             // const normalizados = normalizarMensajes({ mensajes }); //id: "mensajes",
             
             return mensajes//normalizados;

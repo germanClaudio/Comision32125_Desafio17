@@ -2429,3 +2429,142 @@
 {"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":3}
 {"level":"info","message":"Nuevo cliente conectado!"}
 {"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"_message":"Mensajes validation failed","errors":{"author.age":{"kind":"required","message":"Path `author.age` is required.","name":"ValidatorError","path":"author.age","properties":{"message":"Path `author.age` is required.","path":"author.age","type":"required"}}},"level":"error","message":"Mensajes validation failed: author.age: Path `author.age` is required.","name":"ValidationError"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"error","message":"Error MongoDB getProducts:  Cannot read properties of undefined (reading 'getPrecioSegunMoneda')","stack":"TypeError: Cannot read properties of undefined (reading 'getPrecioSegunMoneda')\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:64:26\n    at Array.map (<anonymous>)\n    at ProductosDaoMongoDB.getCotizacionEnDolares (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:61:47)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Namespace.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:18:36)"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"error","message":"Error MongoDB getProducts:  Cannot read properties of undefined (reading 'getPrecioSegunMoneda')","stack":"TypeError: Cannot read properties of undefined (reading 'getPrecioSegunMoneda')\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:64:26\n    at Array.map (<anonymous>)\n    at ProductosDaoMongoDB.getCotizacionEnDolares (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:61:47)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Namespace.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:18:36)"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":null}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"error","message":"Error MongoDB getProducts:  Cannot read properties of undefined (reading 'getPrecioSegunMoneda')","stack":"TypeError: Cannot read properties of undefined (reading 'getPrecioSegunMoneda')\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:64:26\n    at Array.map (<anonymous>)\n    at ProductosDaoMongoDB.getCotizacionEnDolares (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:61:47)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Namespace.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:18:36)"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"error","message":"Error MongoDB getProducts:  Cannot read properties of undefined (reading 'getPrecioSegunMoneda')","stack":"TypeError: Cannot read properties of undefined (reading 'getPrecioSegunMoneda')\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:64:26\n    at Array.map (<anonymous>)\n    at ProductosDaoMongoDB.getCotizacionEnDolares (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:61:47)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Namespace.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:18:36)"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"error","message":"Error MongoDB getProducts:  Cannot read properties of undefined (reading 'getPrecioSegunMoneda')","stack":"TypeError: Cannot read properties of undefined (reading 'getPrecioSegunMoneda')\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:64:26\n    at Array.map (<anonymous>)\n    at ProductosDaoMongoDB.getCotizacionEnDolares (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:61:47)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Namespace.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:18:36)"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"error","message":"Error MongoDB getProducts:  Cannot read properties of undefined (reading 'getPrecioSegunMoneda')","stack":"TypeError: Cannot read properties of undefined (reading 'getPrecioSegunMoneda')\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:64:26\n    at Array.map (<anonymous>)\n    at ProductosDaoMongoDB.getCotizacionEnDolares (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:61:47)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Namespace.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:18:36)"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"error","message":"Error MongoDB getProducts:  Cannot read properties of undefined (reading 'getPrecioSegunMoneda')","stack":"TypeError: Cannot read properties of undefined (reading 'getPrecioSegunMoneda')\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:64:26\n    at Array.map (<anonymous>)\n    at ProductosDaoMongoDB.getCotizacionEnDolares (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:61:47)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Namespace.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:18:36)"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"error","message":"Error MongoDB getProducts:  price is not defined","stack":"ReferenceError: price is not defined\n    at Cotizador.getPrecioSegunMoneda (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\cotizador.js:8:26)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:65:26\n    at Array.map (<anonymous>)\n    at ProductosDaoMongoDB.getCotizacionEnDolares (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:62:47)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Namespace.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:18:36)"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"info","message":"Product created"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"info","message":"Product created"}
+{"level":"info","message":"Productos encontrados... ProductosDaoMongoDB---->"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c6bc59ee5efe6a672cb066","email":"mfrat@gmail.com","lastName":"Frattini","name":"Martin","password":"$2b$10$2GQXW7IZJ/iQpgq0SkMLRuRZ0SdTG2w/2DjFmMlLVg3ahIRqp5BAq","username":"martin"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63d5ee3c50cb280125b04ee1","code":"OI545","description":"Marca Aviar - 90ml","name":"Perfume California","picture":"http://localhost:4000/Perfume_4.jpg","price":85000,"stock":3,"timestamp":"29/01/2023, 00:55:40"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c58c7f53cb0886bd01e6b2","email":"nito@gmail.com","lastName":"Brusa","name":"Nito","password":"$2b$10$4a1AfqsvAwHTXsUDBnS/FuzRmCOz/ZvumSzKhBTtxyw3aaDzwlnM6","username":"nito"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}

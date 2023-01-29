@@ -69,9 +69,10 @@ const renderProduct = (arrProd) => {
                             <h6 class="card-title"><strong>${element.name}</strong></h6>
                             <p class="card-text">${element.description}<br>
                                                 Price: $${element.price}<br>
+                                                Price (USD): $${element.PrecioDolar}<br>
                                                 Code: ${element.code}<br>
                                                 Stock: ${element.stock}<br>
-                                                Id# ${element._id}</p>
+                                                </p>
                                 <hr>                
                                 <a href="#" class="btn btn-primary mx-auto"><i class="fa fa-shopping-cart"></i></a>
                                 <a href="/api/productos/update/${element._id}" class="btn btn-secondary mx-auto"><i class="fa fa-pencil"></i></a>

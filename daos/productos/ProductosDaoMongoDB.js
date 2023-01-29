@@ -4,9 +4,13 @@ const { options } = require('../../options/config.js')
 const Productos = require('../../models/productos.models.js')
 const logger = require('../../utils/winston.js')
 
+const { ProductosDto } = require('../../dto/productosDto')
+const { Cotizador } = require('../../utils/cotizador') 
+
 class ProductosDaoMongoDB extends ContenedorMongoDB {
     constructor() {
         super(options.mongoDB.connection.URL)
+        this.cotizador = new Cotizador()
     }
     
     async getAllProducts(){
@@ -20,14 +24,58 @@ class ProductosDaoMongoDB extends ContenedorMongoDB {
     }
 
     async getById(id) {
-        try {
-            const product = await Productos.findById(`${id}`)
-            logger.info('Producto encontrado: ',product)
-            return product
-        } catch (error) {
-            logger.error("Error MongoDB getOneProducts: ",error)
+        if(id){
+            try {
+                const product = await Productos.findById(`${id}`)
+                logger.info('Producto encontrado: ',product)
+                return product
+            } catch (error) {
+                logger.error("Error MongoDB getOneProducts: ",error)
+            }
+        } else {
+            try {
+                const products = await Productos.find()
+                return products
+            } catch (error) {
+                logger.error("Error MongoDB getOneProducts: ",error)
+            }
         }
     }
+
+    //-------------------------Dto------------------------------------
+    async getCotizacionEnDolares(id) {
+        if(id){
+            try {
+                const product = await Productos.findById(`${id}`)
+                const cotizaciones = {
+                    ProcioDolar: this.cotizador
+                    .getPrecioSegunMoneda(product.price, 'USD')
+                }
+                const productoDto = new ProductosDto(product, cotizaciones)
+                
+                return productoDto
+            } catch (error) {
+                logger.error("Error MongoDB getOneProducts: ",error)
+            }
+        } else {
+            try {
+                const products = await Productos.find()
+                const productosDto = products.map(product => {
+                    const cotizaciones = {
+                        PrecioDolar: this.cotizador
+                        .getPrecioSegunMoneda(product.price, 'USD')
+                    }
+                    const productoDto = new ProductosDto(product, cotizaciones)
+                    return productoDto
+                })
+                return productosDto
+            } catch (error) {
+                logger.error("Error MongoDB getProducts: ",error)
+            }
+        }
+    }
+
+    //----------------------------------------------------------------
 
     async getByNameOrCode(product) {
         try {
@@ -99,13 +147,12 @@ class ProductosDaoMongoDB extends ContenedorMongoDB {
 
 
     async deleteProduct(id) {
-
         try {
             const product = await Productos.findByIdAndRemove(`${id}`)
             console.log('Producto encontrado: ',product)
             return product
         } catch (error) {
-            
+            logger.error("Error MongoDB deleteProduct: ",error)
         }
     }
 
