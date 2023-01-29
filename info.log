@@ -2568,3 +2568,18 @@
 {"level":"info","message":"Nuevo cliente conectado!"}
 {"level":"info","message":"Nuevo cliente conectado!"}
 {"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c58c7f53cb0886bd01e6b2","email":"nito@gmail.com","lastName":"Brusa","name":"Nito","password":"$2b$10$4a1AfqsvAwHTXsUDBnS/FuzRmCOz/ZvumSzKhBTtxyw3aaDzwlnM6","username":"nito"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_6.jpg","price":70000,"stock":22,"timestamp":"27/01/2023, 15:42:46"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c58c7f53cb0886bd01e6b2","email":"nito@gmail.com","lastName":"Brusa","name":"Nito","password":"$2b$10$4a1AfqsvAwHTXsUDBnS/FuzRmCOz/ZvumSzKhBTtxyw3aaDzwlnM6","username":"nito"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_6.jpg","price":70000,"stock":22,"timestamp":"27/01/2023, 15:42:46"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c58c7f53cb0886bd01e6b2","email":"nito@gmail.com","lastName":"Brusa","name":"Nito","password":"$2b$10$4a1AfqsvAwHTXsUDBnS/FuzRmCOz/ZvumSzKhBTtxyw3aaDzwlnM6","username":"nito"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}

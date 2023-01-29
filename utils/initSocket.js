@@ -32,6 +32,11 @@ const initSocket = (io) => {
             io.sockets.emit('productsAll', await containerProduct.getCotizacionEnDolares())
         })
 
+        socket.on('updateProducto', async (producto) => {
+            await containerProduct.updateProduct(producto)
+            io.sockets.emit('productsAll', await containerProduct.getCotizacionEnDolares())
+        })
+
         // -------------------------  Only One  -------------------------------
         // socket.emit('showOnlyOneProduct', await containerProduct.getAllProducts() )
 
