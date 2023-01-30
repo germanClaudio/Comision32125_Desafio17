@@ -74,9 +74,9 @@ const renderProduct = (arrProd) => {
                                                 Stock: ${element.stock}<br>
                                                 </p>
                                 <hr>                
-                                <a href="#" class="btn btn-primary mx-auto"><i class="fa fa-shopping-cart"></i></a>
-                                <a href="/api/productos/update/${element._id}" class="btn btn-secondary mx-auto"><i class="fa fa-pencil"></i></a>
-                                <a href="/api/productos/delete/${element._id}" class="btn btn-danger mx-auto"><i class="fa fa-trash"></i></a>
+                                <a href="#" class="btn btn-primary me-2"><i class="fa fa-shopping-cart"></i></a>
+                                <a href="/api/productos/update/${element._id}" class="btn btn-secondary mx-2"><i class="fa fa-pencil"></i></a>
+                                <a href="/api/productos/delete/${element._id}" class="btn btn-danger ms-2"><i class="fa fa-trash"></i></a>
                         </div>
                     </div>
                 </div>`
@@ -84,11 +84,7 @@ const renderProduct = (arrProd) => {
     }).join(" ");
         
     document.getElementById('mostrarProductos').innerHTML = html
-        
-    // const htmlProdList = 
-    //     ( `<caption id="capProdList">Total Product List ${arrProd.length}</caption>`)
-    // document.getElementById('capProdList').innerHTML = htmlProdList    
-
+    
     document.getElementById('name').value = ""
     document.getElementById('description').value = ""
     document.getElementById('price').value = ""
@@ -98,40 +94,38 @@ const renderProduct = (arrProd) => {
 }
 
 // -------------- Show Only One Product ----------------
-socket.on('showOnlyOneProducto', async (addProduct) => {
-    console.log('showOnlyOneProduct ----', addProduct)
-    renderOnlyOneProduct (await addProduct)
+socket.on('showOnlyOneProduct', async (oneProduct) => {
+    console.log('showOnlyOneProduct ----', oneProduct)
+    renderOnlyOneProduct (await oneProduct)
 })
 
 const showOneProduct = () => {
-    const name = document.getElementById('nameSearch').value  // const code = document.getElementById('codeSearch').value
-    socket.emit('showOneProduct', name )
+    const name = document.getElementById('nameSearch').value 
+    socket.emit('showSearchProduct', name )
     return false
 }
 
-const renderOnlyOneProduct = (addProduct) => {
-    console.log('onlyOneProduct ---- ', addProduct)
-    const htmlOneProduct = addProduct.map((element) => {
+const renderOnlyOneProduct = ( oneProduct ) => {
+    console.log('renderOnlyOneProduct ---- ', oneProduct )
     
-        return (`<div class="card" style="width: 18rem;">
-                    <img src="${element.picture}" class="card-img-top" alt="Picture not Founded">
-                    <div class="card-body">
-                    <h6 class="card-title">${element.name}</h6>
-                    <p class="card-text">${element.description}</p>
-                    <p class="card-text"><strong>${element.code}</strong></p>
-                    <p class="card-text">${element.stock}</p>
-                    <p class="card-text">${element.id}</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>`
-        )
-    }).join(" ");
+    const htmlOneProduct = Array.from(oneProduct).map((element) => {
         
-    document.getElementById('showProductSearch').innerHTML = htmlOneProduct
-    
-    document.getElementById('nameSearch').value = ""
+            return (`<div class="card" style="width: 18rem;">
+                        <img src="${element.picture}" class="card-img-top" alt="Picture not Founded">
+                        <div class="card-body">
+                            <h6 class="card-title">${element.name}</h6>
+                            <p class="card-text">${element.description}</p>
+                            <p class="card-text"><strong>${element.code}</strong></p>
+                            <p class="card-text">${element.stock}</p>
+                            <p class="card-text">${element.id}</p>
+                        </div>
+                    </div>`
+            )
+        }).join(" ");
+            
+        document.getElementById('showProductSearch').innerHTML = htmlOneProduct
+        document.getElementById('nameSearch').value = ""
 }
-
 
 
 const updateProduct = () => {
@@ -148,3 +142,14 @@ const updateProduct = () => {
     return false
 
 }    
+
+const renderUpdatedProduct = (arrProd) => {
+    const html2 = arrProd.map((element) => {
+    
+        return (`<div class="d-block mx-auto my-3 w-75 text-center alert alert-success h5"
+        role="alert">Producto actualizado exitosamente!</div>`
+                )
+    }).join(" ");
+
+    document.getElementById('updateProducto').innerHTML = html2
+}

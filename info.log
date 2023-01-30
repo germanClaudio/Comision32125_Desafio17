@@ -2583,3 +2583,393 @@
 {"level":"info","message":"User desconectado"}
 {"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c58c7f53cb0886bd01e6b2","email":"nito@gmail.com","lastName":"Brusa","name":"Nito","password":"$2b$10$4a1AfqsvAwHTXsUDBnS/FuzRmCOz/ZvumSzKhBTtxyw3aaDzwlnM6","username":"nito"},"visits":1}
 {"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_6.jpg","price":70000,"stock":22,"timestamp":"27/01/2023, 15:42:46"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_6.jpg","price":140000,"stock":19,"timestamp":"29/01/2023, 02:05:57"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_6.jpg","price":140000,"stock":19,"timestamp":"29/01/2023, 02:05:57"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63cff3cad7a547f37d6c463a","code":"SH555","description":"Marca Vicky - 90ml","name":"Perfume Sunchales","picture":"http://localhost:4000/Perfume_6.jpg","price":70000,"stock":19,"timestamp":"29/01/2023, 02:06:27"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63d5ee3c50cb280125b04ee1","code":"OI545","description":"Marca Aviar - 90ml","name":"Perfume California","picture":"http://localhost:4000/Perfume_4.jpg","price":85000,"stock":3,"timestamp":"29/01/2023, 00:55:40"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"63d5ee3c50cb280125b04ee1","code":"OI545","description":"Marca Aviar - 90ml","name":"Perfume California","picture":"http://localhost:4000/Perfume_4.jpg","price":75000,"stock":5,"timestamp":"29/01/2023, 02:19:38"},"level":"info","message":"Producto actualizado "}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"error","message":"Error MongoDB getProducts:  denominacion is not defined","stack":"ReferenceError: denominacion is not defined\n    at new ProductosDto (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\dto\\productosDto.js:13:29)\n    at D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:68:41\n    at Array.map (<anonymous>)\n    at ProductosDaoMongoDB.getCotizacionEnDolares (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\daos\\productos\\ProductosDaoMongoDB.js:63:47)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Namespace.<anonymous> (D:\\Datos\\Desktop\\Comision32125\\Desafio_17\\utils\\initSocket.js:18:36)"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"usuario session: ","userInfo":null}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Data servidor showOneProducto: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Data servidor showOneProducto: "}
+{"level":"info","message":"Data servidor showOneProducto: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c58c7f53cb0886bd01e6b2","email":"nito@gmail.com","lastName":"Brusa","name":"Nito","password":"$2b$10$4a1AfqsvAwHTXsUDBnS/FuzRmCOz/ZvumSzKhBTtxyw3aaDzwlnM6","username":"nito"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Data servidor showOneProducto: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c58c7f53cb0886bd01e6b2","email":"nito@gmail.com","lastName":"Brusa","name":"Nito","password":"$2b$10$4a1AfqsvAwHTXsUDBnS/FuzRmCOz/ZvumSzKhBTtxyw3aaDzwlnM6","username":"nito"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Data servidor showOneProducto: "}
+{"level":"info","message":"Data servidor showOneProducto: "}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c58c7f53cb0886bd01e6b2","email":"nito@gmail.com","lastName":"Brusa","name":"Nito","password":"$2b$10$4a1AfqsvAwHTXsUDBnS/FuzRmCOz/ZvumSzKhBTtxyw3aaDzwlnM6","username":"nito"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Data servidor showOneProducto: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Data servidor showOneProducto: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c58c7f53cb0886bd01e6b2","email":"nito@gmail.com","lastName":"Brusa","name":"Nito","password":"$2b$10$4a1AfqsvAwHTXsUDBnS/FuzRmCOz/ZvumSzKhBTtxyw3aaDzwlnM6","username":"nito"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c58c7f53cb0886bd01e6b2","email":"nito@gmail.com","lastName":"Brusa","name":"Nito","password":"$2b$10$4a1AfqsvAwHTXsUDBnS/FuzRmCOz/ZvumSzKhBTtxyw3aaDzwlnM6","username":"nito"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: ","name":"Perfume Cariocas"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: ","name":"Perfume Cariocas"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c6bc59ee5efe6a672cb066","email":"mfrat@gmail.com","lastName":"Frattini","name":"Martin","password":"$2b$10$2GQXW7IZJ/iQpgq0SkMLRuRZ0SdTG2w/2DjFmMlLVg3ahIRqp5BAq","username":"martin"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"$__":{"activePaths":{"paths":{"_id":"init","code":"init","description":"init","name":"init","picture":"init","price":"init","stock":"init","timestamp":"init"},"states":{"default":{},"init":{"_id":true,"code":true,"description":true,"name":true,"picture":true,"price":true,"stock":true,"timestamp":true}}},"skipId":true},"$isNew":false,"_doc":{"_id":"635fd425d284f5279602c78f","code":"AR236","description":"Marca Avon - 80ml","name":"Perfume Los Haroldos","picture":"http://localhost:4000/Perfume_3.jpg","price":30250,"stock":29,"timestamp":"27/01/2023, 15:42:15"},"level":"info","message":"Producto encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c6bc59ee5efe6a672cb066","email":"mfrat@gmail.com","lastName":"Frattini","name":"Martin","password":"$2b$10$2GQXW7IZJ/iQpgq0SkMLRuRZ0SdTG2w/2DjFmMlLVg3ahIRqp5BAq","username":"martin"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c6bc59ee5efe6a672cb066","email":"mfrat@gmail.com","lastName":"Frattini","name":"Martin","password":"$2b$10$2GQXW7IZJ/iQpgq0SkMLRuRZ0SdTG2w/2DjFmMlLVg3ahIRqp5BAq","username":"martin"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c6bc59ee5efe6a672cb066","email":"mfrat@gmail.com","lastName":"Frattini","name":"Martin","password":"$2b$10$2GQXW7IZJ/iQpgq0SkMLRuRZ0SdTG2w/2DjFmMlLVg3ahIRqp5BAq","username":"martin"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c6bc59ee5efe6a672cb066","email":"mfrat@gmail.com","lastName":"Frattini","name":"Martin","password":"$2b$10$2GQXW7IZJ/iQpgq0SkMLRuRZ0SdTG2w/2DjFmMlLVg3ahIRqp5BAq","username":"martin"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":2}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: ","producto":"Perfume Sunchales"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: ","producto":"Perfume Sunchales"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: ","name":"Perfume Sunchales"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":1}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Data servidor: [object Object]"}
+{"level":"info","message":"Product created"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Count visits"}
+{"level":"info","message":"Username&pass"}
+{"level":"info","message":"usuario loggeado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":3}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":3}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"User desconectado"}
+{"level":"info","message":"usuario session: ","userInfo":{"__v":0,"_id":"63c5560cfa44c13e1bb5006b","email":"gcl@gmail.com","lastName":"claudio","name":"german","password":"$2b$10$SbqT.FmK/3EX9RL7XxkOxeXyaIZvM4uMJOzHw7x6Fjiz/Re9xQuFy","username":"gercla"},"visits":3}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Producto NO encontrado: "}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}
+{"level":"info","message":"Nuevo cliente conectado!"}

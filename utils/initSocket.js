@@ -38,20 +38,18 @@ const initSocket = (io) => {
         })
 
         // -------------------------  Only One  -------------------------------
-        // socket.emit('showOnlyOneProduct', await containerProduct.getAllProducts() )
-
-        socket.on("showOnlyOneProduct", async (arrProd) => {
-            console.log('onlyOneProduct   ', arrProd)
-            renderOnlyOneProduct(await arrProd)
+        
+        socket.on('showOnlyOneProduct', async (oneProduct) => {
+            console.log('onlyOneProduct   ', oneProduct)
+            renderOnlyOneProduct (await oneProduct)
             })
 
-        socket.on('showOneProduct', async (producto) => {
-            console.log('producto socket: ',producto)
-            logger.info('Data servidor showOneProducto: ', producto)
-            await containerProduct.getByNameOrCode(producto)
-            io.sockets.emit('showOnlyOneProduct', await containerProduct.getAllProducts())
+        socket.on('showSearchProduct', async (product) => {
+            console.log('producto socket: ', product )
+            //logger.info('Data servidor showOneProducto: ', producto)
+            io.sockets.emit('showOnlyOneProduct',
+                            await containerProduct.getByNameOrCode(product))
         })
-        
 
     // -----------------------------  Messages ---------------------------------
         // const normalizarMensajes = (mensajesConId) =>
@@ -84,8 +82,6 @@ const initSocket = (io) => {
         socket.on('disconnect', () => {
             logger.info(`User desconectado`)
         })
-
-        
     })
 }
 

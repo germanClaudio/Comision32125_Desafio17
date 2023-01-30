@@ -10,6 +10,7 @@ class ProductosDto {
         for (const [denominacion, valor] of Object.entries(cotizaciones)) {
             this[denominacion] = valor 
         }
+        
     }
 }
 

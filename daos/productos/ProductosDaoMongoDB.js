@@ -78,25 +78,33 @@ class ProductosDaoMongoDB extends ContenedorMongoDB {
     //----------------------------------------------------------------
 
     async getByNameOrCode(product) {
-        try {
-            const nameProduct = await Productos.findOne({ name: `${product}`}).exec();
-            const codeProduct = await Productos.findOne({ code: `${product}`}).exec();
 
-            if(nameProduct) {
-                console.log('Producto encontrado getByName: ', nameProduct)
-                //logger.info('Producto encontrado getByName')
-                return nameProduct
-            } else if(codeProduct) {
-                console.log('Producto encontrado getByCode: ', codeProduct)
-                //logger.info('Producto encontrado getByCode')
-                return codeProduct
-            } else {
-                logger.info('Producto NO encontrado: ', product)
-                return false
+        if(product === "No Product Selected") {
+            console.log('Seleccione un producto por Nombre o Code: ',product)
+            //logger.info('Producto NO encontrado: ', product)
+            return product
+        } else {
+            try {
+                const nameProduct = await Productos.findOne({ name: `${product}`}).exec();
+                const codeProduct = await Productos.findOne({ code: `${product}`}).exec();
+    
+                if(nameProduct) {
+                    console.log('Producto encontrado getByName: ', nameProduct)
+                    //logger.info('Producto encontrado getByName')
+                    return nameProduct
+                } else if (codeProduct) {
+                    console.log('Producto encontrado getByCode: ', codeProduct)
+                    //logger.info('Producto encontrado getByCode')
+                    return codeProduct
+                } else {
+                    return false
+                }
+            } catch (error) {
+                logger.error("Error MongoDB getOneProduct: ",error)
             }
-        } catch (error) {
-            logger.error("Error MongoDB getOneProduct: ",error)
+
         }
+        
     }
 
     async createProduct(product){
