@@ -11,21 +11,24 @@ require('dotenv').config( {
 
 const cors = require('cors')
 const { Server: HttpServer } = require('http')
-const { Server: IOServer } = require('socket.io')
+// const { Server: IOServer } = require('socket.io')
 
-const routerUsers = require('./Routes/usuarios.route.js')
-const routerfProductos = require('./Routes/productos.route.js')
-const initSocket = require('./utils/initSocket.js')
-const { infoRouter } = require('./Routes/info.routes.js')
-const { authRouter } = require('./Routes/auth.routes.js')
+// const routerUsers = require('./Routes/usuarios.route.js')
+const routerProducts = require('./routes/productos.routes.js')
+// const initSocket = require('./utils/initSocket.js')
+// const { infoRouter } = require('./Routes/info.routes.js')
+// const { authRouter } = require('./Routes/auth.routes.js')
 
 //______________________________ mongo para session ______________________________ //
 const MongoStore = require('connect-mongo')
-const advancedOptions = { useNewUrlParser: true, useUnifiedTopology: true }
+const advancedOptions = {
+    useNewUrlParser: true,
+    useUnifiedTopology: true
+}
 
 //________________________________________________________________________________ //
-const passport = require('passport')
-const { initPassport } = require('./middlewares/passport.js')
+//const passport = require('passport')
+// const { initPassport } = require('./middlewares/passport.js')
 //________________________________________________________________________________ //
 
 // const parseArgs = require('minimist')
@@ -36,7 +39,7 @@ const initServer = () => {
 
     const app = express()
     const httpServer = new HttpServer(app)
-    const io = new IOServer(httpServer)
+    // const io = new IOServer(httpServer)
 
     /////////////////////// configuracion de EJS /////////////////////////
     app.set('view engine', 'ejs')
@@ -69,9 +72,9 @@ const initServer = () => {
         saveUninitialized: true
     }))
 
-    initPassport()
-    app.use(passport.initialize())
-    app.use(passport.session())
+    // initPassport()
+    // app.use(passport.initialize())
+    // app.use(passport.session())
 
     app.use(express.static('public'))
     app.use(express.static('src/images'))
@@ -81,14 +84,14 @@ const initServer = () => {
     app.use(logger('dev'))
         
     ////////////////////// Rutas //////////////////////////////    
-    app.use('/api/productos', routerfProductos)
-    app.use('/api/auth', authRouter)
-    app.use('/', infoRouter)
-    app.use('/getUsers', routerUsers)
+    app.use('/api/productos', routerProducts)
+    // app.use('/api/auth', authRouter)
+    // app.use('/', infoRouter)
+    // app.use('/getUsers', routerUsers)
     ////////////////////////////////////////////////////////
 
 //_____________________________________________ socket.io _____________________________________ //   
-    initSocket(io)
+    // initSocket(io)
     // navigateSocket(io)
 //______________________________________________________________________________________________//
 

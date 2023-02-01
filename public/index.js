@@ -107,7 +107,7 @@ const showOneProduct = () => {
 const renderOnlyOneProduct = ( oneProduct ) => {
     
     const oneProductSearch = [oneProduct]
-    if(oneProductSearch.length == 1){
+    if(oneProductSearch){
         const htmlOneProduct = Array.from(oneProductSearch).map((element) => {
             
             return (`<div class="card mb-3 mx-auto my-3 text-center" style="max-width: 540px;">
