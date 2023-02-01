@@ -1,20 +1,35 @@
 const mongoose = require('mongoose')
+const { options } = require('../config/config')
+// const logger = require('morgan')
 
-// -------- Conecta a la base de datos MONGO ----------
+// -------- Conecta a la base de datos MONGO DB----------
 
 const dbConnection = async () => {
     try {
-        const URL = process.env.MONGO_URL_CONNECT_ECOM
+        const URL = options.mongoDB.connection.URL //|| process.env.MONGO_URL_CONNECT_ECOM
         mongoose.connect(URL, {
             useNewUrlParser: true,
-            useUnifiedTopology: true
+            useUnifiedTopology: true            
         })
-        logger.info('Connected to MongoDB Server <-123->')
+        .then(res => console.log("Connected to MongoDB Server <-123->")).catch(err => console.log(err))
+        mongoose.Promise = global.Promise;
+        process.on("SIGINT", cleanup);
+        process.on("SIGTERM", cleanup);
+        process.on("SIGHUP", cleanup);
+        
+        function cleanup() {
+            mongoose.connection.close(function () {
+                process.exit(0)
+        })
+    }
+        console.log("Connected to MongoDB Server <-123->")    
+        // logger.info('Connected to MongoDB Server <-123->')
        
     } catch (error) {
-       logger.error('Error connection to DB: '+error)
+       //logger.error('Error connection to DB: '+error)
+       console.log('Error connection to DB: ',error)
     }
-    
-}
+}    
+
 
 module.exports = { dbConnection }

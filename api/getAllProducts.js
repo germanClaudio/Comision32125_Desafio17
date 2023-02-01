@@ -1,4 +1,4 @@
-const productRepository = require('../controllers/products.controller')
+const productRepository = require('../repository/repository')
 
 const getAllProducts = async (req, res) => {
     try {

@@ -1,4 +1,4 @@
-const productRepository = require('../container/repository')
+const productRepository = require('../repository/repository')
 
 const deleteAllProducts = async (req, res) => {
     try {

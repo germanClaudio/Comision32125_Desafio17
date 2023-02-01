@@ -3,18 +3,19 @@ const logger = require('morgan')
 const session = require('express-session')
 const path = require('path')
 
+
 require('dotenv').config( {
     path: process.env.MODO === 'dev'
     ? path.resolve(__dirname, '.env')
     : path.resolve(__dirname, '.env')
- })
+})
 
 const cors = require('cors')
 const { Server: HttpServer } = require('http')
 // const { Server: IOServer } = require('socket.io')
 
-// const routerUsers = require('./Routes/usuarios.route.js')
 const routerProducts = require('./routes/productos.routes.js')
+// const routerUsers = require('./Routes/usuarios.route.js')
 // const initSocket = require('./utils/initSocket.js')
 // const { infoRouter } = require('./Routes/info.routes.js')
 // const { authRouter } = require('./Routes/auth.routes.js')
@@ -26,6 +27,8 @@ const advancedOptions = {
     useUnifiedTopology: true
 }
 
+const connect = require('./config/connection')
+
 //________________________________________________________________________________ //
 //const passport = require('passport')
 // const { initPassport } = require('./middlewares/passport.js')
@@ -36,11 +39,11 @@ const advancedOptions = {
 //     console.log('args: ', args)
 
 const initServer = () => {    
-
+    
     const app = express()
     const httpServer = new HttpServer(app)
     // const io = new IOServer(httpServer)
-
+    
     /////////////////////// configuracion de EJS /////////////////////////
     app.set('view engine', 'ejs')
     app.set('views', __dirname + '/public/views/pages') 
@@ -72,6 +75,7 @@ const initServer = () => {
         saveUninitialized: true
     }))
 
+    app.use(connect.dbConnection)
     // initPassport()
     // app.use(passport.initialize())
     // app.use(passport.session())
@@ -92,7 +96,6 @@ const initServer = () => {
 
 //_____________________________________________ socket.io _____________________________________ //   
     // initSocket(io)
-    // navigateSocket(io)
 //______________________________________________________________________________________________//
 
     return {
