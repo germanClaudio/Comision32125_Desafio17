@@ -5,7 +5,9 @@ const Productos = require('../../models/productos.models.js')
 const logger = require('../../utils/winston.js')
 
 const { ProductosDto } = require('../../dto/productosDto')
-const { Cotizador } = require('../../utils/cotizador') 
+const { Cotizador } = require('../../utils/cotizador')
+
+const currency = process.env.CURRENCY
 
 class ProductosDaoMongoDB extends ContenedorMongoDB {
     constructor() {
@@ -44,16 +46,18 @@ class ProductosDaoMongoDB extends ContenedorMongoDB {
 
     //-------------------------Dto------------------------------------
     async getCotizacionEnDolares(id) {
+        
         if(id){
             try {
-                const product = await Productos.findById(`${id}`)
+                const product = await Productos.findById(id)
                 const cotizaciones = {
                     ProcioDolar: this.cotizador
-                    .getPrecioSegunMoneda(product.price, 'USD')
+                    .getPrecioSegunMoneda(product.price, currency),
+                    moneda: currency
                 }
                 const productoDto = new ProductosDto(product, cotizaciones)
-                
                 return productoDto
+
             } catch (error) {
                 logger.error("Error MongoDB getOneProducts: ",error)
             }
@@ -62,10 +66,11 @@ class ProductosDaoMongoDB extends ContenedorMongoDB {
                 const products = await Productos.find()
                 const productosDto = products.map(product => {
                     const cotizaciones = {
-                        PrecioDolar: this.cotizador
-                        .getPrecioSegunMoneda(product.price, 'USD')
+                        precioDolar: this.cotizador
+                        .getPrecioSegunMoneda(product.price, currency),
+                        moneda: currency
                     }
-                    const productoDto = new ProductosDto(product, cotizaciones)
+                    const productoDto = new ProductosDto(product, cotizaciones, currency)
                     return productoDto
                 })
                 return productosDto
@@ -78,22 +83,17 @@ class ProductosDaoMongoDB extends ContenedorMongoDB {
     //----------------------------------------------------------------
 
     async getByNameOrCode(product) {
-
-        if(product === "No Product Selected") {
-            console.log('Seleccione un producto por Nombre o Code: ',product)
-            //logger.info('Producto NO encontrado: ', product)
-            return product
-        } else {
+        
             try {
                 const nameProduct = await Productos.findOne({ name: `${product}`}).exec();
                 const codeProduct = await Productos.findOne({ code: `${product}`}).exec();
     
                 if(nameProduct) {
-                    console.log('Producto encontrado getByName: ', nameProduct)
+                    //console.log('Producto encontrado getByName: ', nameProduct)
                     //logger.info('Producto encontrado getByName')
                     return nameProduct
                 } else if (codeProduct) {
-                    console.log('Producto encontrado getByCode: ', codeProduct)
+                    //console.log('Producto encontrado getByCode: ', codeProduct)
                     //logger.info('Producto encontrado getByCode')
                     return codeProduct
                 } else {
@@ -102,9 +102,6 @@ class ProductosDaoMongoDB extends ContenedorMongoDB {
             } catch (error) {
                 logger.error("Error MongoDB getOneProduct: ",error)
             }
-
-        }
-        
     }
 
     async createProduct(product){

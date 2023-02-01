@@ -68,8 +68,8 @@ const renderProduct = (arrProd) => {
                         <div class="card-body">
                             <h6 class="card-title"><strong>${element.name}</strong></h6>
                             <p class="card-text">${element.description}<br>
-                                                Price: $${element.price}<br>
-                                                Price (USD): $${element.PrecioDolar}<br>
+                                                Price (ARS): ${element.price}<br>
+                                                Price (${element.moneda}): ${element.precioDolar}<br>
                                                 Code: ${element.code}<br>
                                                 Stock: ${element.stock}<br>
                                                 </p>
@@ -94,8 +94,7 @@ const renderProduct = (arrProd) => {
 }
 
 // -------------- Show Only One Product ----------------
-socket.on('showOnlyOneProduct', async (oneProduct) => {
-    console.log('showOnlyOneProduct ----', oneProduct)
+socket.on('showSelecProd', async (oneProduct) => {
     renderOnlyOneProduct (await oneProduct)
 })
 
@@ -106,25 +105,48 @@ const showOneProduct = () => {
 }
 
 const renderOnlyOneProduct = ( oneProduct ) => {
-    console.log('renderOnlyOneProduct ---- ', oneProduct )
     
-    const htmlOneProduct = Array.from(oneProduct).map((element) => {
-        
-            return (`<div class="card" style="width: 18rem;">
-                        <img src="${element.picture}" class="card-img-top" alt="Picture not Founded">
-                        <div class="card-body">
-                            <h6 class="card-title">${element.name}</h6>
-                            <p class="card-text">${element.description}</p>
-                            <p class="card-text"><strong>${element.code}</strong></p>
-                            <p class="card-text">${element.stock}</p>
-                            <p class="card-text">${element.id}</p>
-                        </div>
-                    </div>`
-            )
-        }).join(" ");
+    const oneProductSearch = [oneProduct]
+    if(oneProductSearch.length == 1){
+        const htmlOneProduct = Array.from(oneProductSearch).map((element) => {
             
-        document.getElementById('showProductSearch').innerHTML = htmlOneProduct
-        document.getElementById('nameSearch').value = ""
+            return (`<div class="card mb-3 mx-auto my-3 text-center" style="max-width: 540px;">
+                            <div class="row g-0">
+                                <div class="col-4">
+                                    <img src="${element.picture}" class="img-fluid rounded-start m-auto" alt="Picture not Founded" width="200px">
+                                </div>
+                                <div class="col-8">
+                                    <div class="card-body">
+                                        <h6 class="card-title"><strong>${element.name}</strong></h6>
+                                        <p class="card-text">${element.description}<br>
+                                                            Price(ARS): $${element.price}<br>
+                                                            Price (${element.moneda}): ${element.precioDolar}<br>
+                                                            Code: ${element.code}<br>
+                                                            Stock: ${element.stock}<br>
+                                                            </p>
+                                                            <hr>                
+                                            <a href="#" class="btn btn-primary me-2"><i class="fa fa-shopping-cart"></i></a>
+                                            <a href="/api/productos/update/${element._id}" class="btn btn-secondary mx-2"><i class="fa fa-pencil"></i></a>
+                                            <a href="/api/productos/delete/${element._id}" class="btn btn-danger ms-2"><i class="fa fa-trash"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <br>`)
+            }).join(" ");
+                
+            document.getElementById('showProductSearch').innerHTML = htmlOneProduct
+            document.getElementById('nameSearch').value = "Entro aca"
+    
+        } else {
+        const htmlOneProduct = `<div class="container mx-auto my-3 text-center" style="max-width: 540px;">
+                                    <strong>I'm sorry, the Product searched doesn't exists.</strong><br>
+                                    Please, Try Again!!!
+                                </div><br>`
+                
+            document.getElementById('showProductSearch').innerHTML = htmlOneProduct
+            document.getElementById('nameSearch').value = ""
+    }    
 }
 
 

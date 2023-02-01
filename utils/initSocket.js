@@ -7,20 +7,16 @@ const containerMsg = new ContainerMessages(options.mongoDB.connection.URL) //opt
 const ContainerProducts = require("../daos/productos/ProductosDaoMongoDB.js")  //../daos/productos/ProductosDaoArchivo.js
 const containerProduct = new ContainerProducts(options.mongoDB.connection.URL) //options.filePath.path
 
-const { normalize, schema } = require("normalizr");
+const { schema } = require("normalizr");
 
 const initSocket = (io) => {
   io.on("connection", async (socket) => {
         logger.info("Nuevo cliente conectado!")
         
         // --------------------------  Products --------------------------------
-        // --------------------------    All    --------------------------------  
+         
         socket.emit('productsAll', await containerProduct.getCotizacionEnDolares() )  //getAllProducts() 
         
-        socket.on("productsAll", async (arrProd) => {
-            renderProduct(await arrProd)
-        })
-
         socket.on('newProducto', async (producto) => {
             logger.info('Data servidor: ' + producto)
             await containerProduct.createProduct(producto)
@@ -37,18 +33,18 @@ const initSocket = (io) => {
             io.sockets.emit('productsAll', await containerProduct.getCotizacionEnDolares())
         })
 
-        // -------------------------  Only One  -------------------------------
+        // ------------------------- Show Only One Product -------------------------------
         
-        socket.on('showOnlyOneProduct', async (oneProduct) => {
-            console.log('onlyOneProduct   ', oneProduct)
-            renderOnlyOneProduct (await oneProduct)
-            })
-
-        socket.on('showSearchProduct', async (product) => {
-            console.log('producto socket: ', product )
+        socket.on('showSearchProduct', async (producto) => {
             //logger.info('Data servidor showOneProducto: ', producto)
-            io.sockets.emit('showOnlyOneProduct',
-                            await containerProduct.getByNameOrCode(product))
+            const item = await containerProduct.getByNameOrCode(producto)
+            if(item !== undefined){
+                io.sockets.emit('showSelecProd',
+                    await containerProduct.getCotizacionEnDolares(item._id))
+            } else {
+                io.sockets.emit('showSelecProd',
+                    await containerProduct.getCotizacionEnDolares())
+            }
         })
 
     // -----------------------------  Messages ---------------------------------

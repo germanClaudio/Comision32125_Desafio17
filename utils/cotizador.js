@@ -7,7 +7,7 @@ class Cotizador {
         switch(moneda) {
             case 'USD' : return (price / Cotizador.VALOR_DOLAR).toFixed(2)
             case 'EUR' : return (price / Cotizador.VALOR_EURO).toFixed(2)
-            case 'RLB' : return (price / Cotizador.VALOR_REAL).toFixed(2)
+            case 'BRL' : return (price / Cotizador.VALOR_REAL).toFixed(2)
             default: return price
         }
     }

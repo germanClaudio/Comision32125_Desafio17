@@ -1,5 +1,5 @@
 class ProductosDto {
-    constructor(datos, cotizaciones) {
+    constructor(datos, cotizaciones, currency) {
         this._id = datos._id
         this.name = datos.name
         this.description = datos.description

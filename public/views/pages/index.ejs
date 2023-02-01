@@ -13,13 +13,13 @@
         role="alert" id="mostrarUserName">Bienvenido <%= userInfo.name %> <%= userInfo.lastName %> 
          - Es tu visita #<%= visits %> 
     </div>
-    <h3 class="d-block mx-auto my-2 text-center">Load your Products</h3>
+    <h3 class="d-block mx-auto my-4 text-center">Load your Products</h3>
     <%- include('../partials/formulario'); %>
     <br>
-    <h4 class="d-block mx-auto my-2 text-center">Search your Product</h4>
-    <br>
-    <%- include('../partials/formularioSearchProduct'); %>    
-    <%- include('../partials/dataProductSearch'); %>
+    <div class="d-block mx-auto my-4 text-center bg-primary-light">
+        <%- include('../partials/formularioSearchProduct'); %>    
+        <%- include('../partials/dataProductSearch'); %>
+    </div>
         <br>
         <h3 class="d-block mx-auto my-2 text-center">Product List</h3>
         <div class="d-block mx-auto mb-3 text-center w-75">
