@@ -1,6 +1,6 @@
 const productRepository = require('../repository/repository')
 
-const getAllProductss = async (req, res) => {
+const getAllProducts = async (req, res) => {
     try {
         const products = await productRepository.getProducts()
         // res.status(200).json({
@@ -17,4 +17,4 @@ const getAllProductss = async (req, res) => {
     }
 }
 
-module.exports = { getAllProductss }
+module.exports = { getAllProducts }

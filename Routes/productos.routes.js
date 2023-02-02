@@ -27,10 +27,10 @@ routerProductos.get('/:id', productsController.getProductById)
 routerProductos.post('/', productsController.createProduct)
 
 // --------------  Update a Product by Id -------------------------
-routerProductos.post('/', productsController.updateProduct)
+routerProductos.post('/:id', productsController.updateProduct)
 
 // --------------  Delete a Product by Id ------------------
-routerProductos.delete('/', productsController.deleteProductById)
+routerProductos.delete('/:id', productsController.deleteProductById)
 
 // --------------  Delete All Product -----------------------------
 routerProductos.delete('/', productsController.deleteAllProducts)

@@ -15,8 +15,8 @@ exports.createProduct = async payload => {
     return newProduct
 }
 
-exports.updateProduct = async id => {
-    const product = await Product.findByIdAndUpdate(id)
+exports.updateProduct = async (id, newValues) => {
+    const product = await Product.findByIdAndUpdate(id, newValues, { new: true })
     return product
 }
 
