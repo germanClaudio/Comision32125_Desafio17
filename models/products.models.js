@@ -2,7 +2,9 @@ const { Schema, model } = require('mongoose')
 
 const ProductoSchema = new Schema({
     timestamp:{
-        type: String,
+        // type: String,
+        type: Date,
+		// default: () => new Date(new Date()),
     },
     name: {
         type: String,

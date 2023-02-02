@@ -1,8 +1,9 @@
 const express = require('express')
+const cors = require('cors')
 const logger = require('morgan')
 const session = require('express-session')
 const path = require('path')
-
+const bodyParser = require('body-parser')
 
 require('dotenv').config( {
     path: process.env.MODO === 'dev'
@@ -10,10 +11,10 @@ require('dotenv').config( {
     : path.resolve(__dirname, '.env')
 })
 
-const cors = require('cors')
 const { Server: HttpServer } = require('http')
 // const { Server: IOServer } = require('socket.io')
 
+// ----------------  Routes ----------------------------------------------- //
 const routerProducts = require('./routes/productos.routes.js')
 // const routerUsers = require('./Routes/usuarios.route.js')
 // const initSocket = require('./utils/initSocket.js')
@@ -27,7 +28,8 @@ const advancedOptions = {
     useUnifiedTopology: true
 }
 
-const connect = require('./config/connection')
+//const connect = require('./config/connection')
+
 
 //________________________________________________________________________________ //
 //const passport = require('passport')
@@ -43,7 +45,12 @@ const initServer = () => {
     const app = express()
     const httpServer = new HttpServer(app)
     // const io = new IOServer(httpServer)
-    
+    require("./config/connection.js")(app)
+
+    // app.use(bodyParser.urlencoded({
+    //     extended: true
+    //   }))
+
     /////////////////////// configuracion de EJS /////////////////////////
     app.set('view engine', 'ejs')
     app.set('views', __dirname + '/public/views/pages') 
@@ -75,7 +82,6 @@ const initServer = () => {
         saveUninitialized: true
     }))
 
-    app.use(connect.dbConnection)
     // initPassport()
     // app.use(passport.initialize())
     // app.use(passport.session())

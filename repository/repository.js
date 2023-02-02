@@ -1,8 +1,7 @@
 const Product = require("../models/products.models")
 
-exports.getAllProducts = async () => {
+exports.getProducts = async () => {
     const products = await Product.find()
-    console.log('products: ', products)
     return products
 }
 

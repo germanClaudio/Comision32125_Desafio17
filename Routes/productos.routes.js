@@ -16,6 +16,9 @@ const productsController = require('../controllers/products.controller')
 
 //---------------- Get All Products -------------------------------
 routerProductos.get('/', productsController.getAllProducts)
+    // return res.render('index', { userInfo: "pepe", visits: 1, products })
+    //res.render('index.ejs')
+// })
 
 //---------------- Get Product by Id ------------------------------
 routerProductos.get('/:id', productsController.getProductById)
