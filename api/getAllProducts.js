@@ -8,6 +8,7 @@ const getAllProducts = async (req, res) => {
         //     data: products,
         // })
         return products
+
     } catch (err) {
         console.log(err)
         // res.status(500).json({

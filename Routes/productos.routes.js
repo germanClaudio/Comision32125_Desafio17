@@ -15,7 +15,11 @@ const productsController = require('../controllers/products.controller')
 // const server = new constructor()
 
 //---------------- Get All Products -------------------------------
-routerProductos.get('/', productsController.getAllProducts)
+routerProductos.get('/', 
+    productsController.getAllProducts
+    // res.status(200).json({ msg: productos })
+    // res.end()
+)
     // return res.render('index', { userInfo: "pepe", visits: 1, products })
     //res.render('index.ejs')
 // })

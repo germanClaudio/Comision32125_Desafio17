@@ -3,7 +3,6 @@ const cors = require('cors')
 const logger = require('morgan')
 const session = require('express-session')
 const path = require('path')
-const bodyParser = require('body-parser')
 
 require('dotenv').config( {
     path: process.env.MODO === 'dev'
@@ -28,10 +27,7 @@ const advancedOptions = {
     useUnifiedTopology: true
 }
 
-//const connect = require('./config/connection')
-
-
-//________________________________________________________________________________ //
+//________________________________ passport _____________________________________ //
 //const passport = require('passport')
 // const { initPassport } = require('./middlewares/passport.js')
 //________________________________________________________________________________ //
@@ -46,10 +42,6 @@ const initServer = () => {
     const httpServer = new HttpServer(app)
     // const io = new IOServer(httpServer)
     require("./config/connection.js")(app)
-
-    // app.use(bodyParser.urlencoded({
-    //     extended: true
-    //   }))
 
     /////////////////////// configuracion de EJS /////////////////////////
     app.set('view engine', 'ejs')
@@ -93,7 +85,7 @@ const initServer = () => {
     app.use(cors())
     app.use(logger('dev'))
         
-    ////////////////////// Rutas //////////////////////////////    
+    ////////////////////// Routes //////////////////////////////    
     app.use('/api/productos', routerProducts)
     // app.use('/api/auth', authRouter)
     // app.use('/', infoRouter)
