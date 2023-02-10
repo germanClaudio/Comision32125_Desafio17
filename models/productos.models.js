@@ -1,10 +1,9 @@
 const { Schema, model } = require('mongoose')
 
 const ProductoSchema = new Schema({
-    timestamp:{
-        // type: String,
-        type: Date,
-		// default: () => new Date(new Date()),
+    timestamp: {
+        type: String,
+		default: Date.now().toLocaleString('en-GB')
     },
     name: {
         type: String,
@@ -51,6 +50,6 @@ const ProductoSchema = new Schema({
     
 },{
     versionKey: false
-});
+})
 
-module.exports = model('Product', ProductoSchema)
+module.exports = model('Products', ProductoSchema)

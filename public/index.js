@@ -54,8 +54,18 @@ const addProduct = () => {
     const picture = document.getElementById('picture').value
     const code = document.getElementById('code').value
     const stock = Number(document.getElementById('stock').value)
+    const category = document.getElementById('category').value
 
-    socket.emit('newProducto', { name, timestamp, description, price, picture, code, stock })
+    socket.emit('newProducto', {
+        name,
+        timestamp,
+        description,
+        price,
+        picture,
+        code,
+        stock,
+        category
+    })
     return false
 }
 
@@ -72,11 +82,11 @@ const renderProduct = (arrProd) => {
                                                 Price (${element.moneda}): ${element.precioDolar}<br>
                                                 Code: ${element.code}<br>
                                                 Stock: ${element.stock}<br>
+                                                Category: ${element.category}<br>
                                                 </p>
                                 <hr>                
                                 <a href="#" class="btn btn-primary me-2"><i class="fa fa-shopping-cart"></i></a>
-                                <a href="/api/productos/update/${element._id}" class="btn btn-secondary mx-2"><i class="fa fa-pencil"></i></a>
-                                <a href="/api/productos/delete/${element._id}" class="btn btn-danger ms-2"><i class="fa fa-trash"></i></a>
+                                <a href="/api/productos/${element._id}" class="btn btn-danger mx-2"><i class="fa fa-pencil"></i> or <i class="fa fa-trash"></i></a>         
                         </div>
                     </div>
                 </div>`
@@ -126,9 +136,8 @@ const renderOnlyOneProduct = ( oneProduct ) => {
                                                             </p>
                                                             <hr>                
                                             <a href="#" class="btn btn-primary me-2"><i class="fa fa-shopping-cart"></i></a>
-                                            <a href="/api/productos/update/${element._id}" class="btn btn-secondary mx-2"><i class="fa fa-pencil"></i></a>
-                                            <a href="/api/productos/delete/${element._id}" class="btn btn-danger ms-2"><i class="fa fa-trash"></i></a>
-                                    </div>
+                                            <a href="/api/productos/update/${element._id}" class="btn btn-secondary mx-2"><i class="fa fa-pencil"></i>  <i class="fa fa-trash"></i></a>
+                                   </div>
                                 </div>
                             </div>
                         </div>
@@ -149,7 +158,7 @@ const renderOnlyOneProduct = ( oneProduct ) => {
     }    
 }
 
-
+// --------------------- update ---------------------------------------- 
 const updateProduct = () => {
     const _id = document.getElementById('id').value
     const name = document.getElementById('name').value
@@ -159,8 +168,19 @@ const updateProduct = () => {
     const picture = document.getElementById('picture').value
     const code = document.getElementById('code').value
     const stock = Number(document.getElementById('stock').value)
+    const category = document.getElementById('category').value
 
-    socket.emit('updateProducto', { _id, name, timestamp, description, price, picture, code, stock })
+    socket.emit('updateProducto', {
+        _id,
+        name,
+        timestamp,
+        description,
+        price,
+        picture,
+        code,
+        stock,
+        category
+    })
     return false
 
 }    
@@ -175,3 +195,5 @@ const renderUpdatedProduct = (arrProd) => {
 
     document.getElementById('updateProducto').innerHTML = html2
 }
+
+//-------------------------- delete --------------------------------------------

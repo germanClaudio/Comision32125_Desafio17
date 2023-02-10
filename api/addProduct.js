@@ -1,4 +1,4 @@
-const productRepository = require('../repository/repository')
+const productRepository = require('../contenedores/containerMongoDB')
 
 const createProduct = async (req, res) => {
     try {
@@ -15,17 +15,17 @@ const createProduct = async (req, res) => {
         const product = await productRepository.createProduct({
             ...payload
         })
-        // res.status(200).json({
-        //     status: true,
-        //     data: product,
-        // })
+        res.status(200).json({
+            status: true,
+            data: product,
+        })
         return product
     } catch (err) {
         console.log(err)
-        // res.status(500).json({
-        //     error: err,
-        //     status: false,
-        // })
+        res.status(500).json({
+            error: err,
+            status: false,
+        })
     }
 }
 

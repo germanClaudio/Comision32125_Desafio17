@@ -14,6 +14,16 @@
                         placeholder="Description Product">
                 </div>
                 <br>
+                <div class="col-4 my-2">
+                    <label for="category">Categoria</label>
+                    <select class="form-select" aria-label="Default select example">
+                        <option selected>Seleccione una categoria</option>
+                        <option value="Perfumes">Perfumes</option>
+                        <option value="Ropa">Ropa</option>
+                        <option value="Calzado">Calzado</option>
+                      </select>
+                </div>
+                <br>
                 <div class="col-3">
                     <label for="price">Price ($)</label>
                     <input type="text" name="price" id="price" class="form-control" placeholder="Ex. 150" required>
@@ -42,8 +52,8 @@
             </div>
             <br>
             <div class="d-flex justify-content-center my-2">
-                <button type="submit" class="btn btn-primary mx-auto">Save Product <i class="fa fa-save"></i></button>
-                <button type="reset" class="btn btn-danger mx-auto">Reset</button>
+                <button type="submit" class="btn btn-primary mx-auto w-25" >Save Product <i class="fa fa-save"></i></button>
+                <button type="reset" class="btn btn-danger mx-auto w-25">Reset <i class="fa fa-rotate-left"></i></button>
             </div>
         </fieldset>
     </form>

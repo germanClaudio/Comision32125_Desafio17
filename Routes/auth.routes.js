@@ -4,6 +4,7 @@ const { countVisits } = require('../middlewares/countVisits/countVisits.middlewa
 const { checkAuthentication } = require('../middlewares/chekAuthentication')
 // const { users } = require('../usuarios/users')
 //const { passport } = require('../middlewares/passport')
+const authMiddleware = require('../middlewares/auth.middleware')
 const { generateToken } = require('../utils/generateToken')
 const logger = require('../utils/winston')
 
@@ -22,12 +23,12 @@ authRouter.get('/login', (req, res) => { // lleva la vista del formulario de log
     res.render('login', { flag, fail })
 })
 
-// authRouter.post('/login', passport.authenticate('login', {
+// authRouter.post('/login', countVisits, passport.authenticate('local', {
 //     successRedirect: '/api/productos',
 //     failureRedirect: '/api/auth/login',
 // }))
 
-authRouter.post('/login', countVisits ,async (req, res) => {
+authRouter.post('/login', countVisits, async (req, res) => {
     try {
         const { username } = req.body
         let { password } = req.body

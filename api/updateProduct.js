@@ -1,4 +1,4 @@
-const productRepository = require('../repository/repository')
+const productRepository = require('../contenedores/containerMongoDB')
 
 const updateProduct = async (req, res) => {
     try {
@@ -14,16 +14,16 @@ const updateProduct = async (req, res) => {
             category: req.body.category
         }
         const productUpdated = await productRepository.updateProduct(id, newValues, { new: true })
-        // res.status(200).json({
-        //     status: true,
-        //     data: productUpdate,
-        // })
+        res.status(200).json({
+            status: true,
+            data: productUpdated,
+        })
         return productUpdated
     } catch (err) {
-        // res.status(500).json({
-        //     status: false,
-        //     error: err
-        // })
+        res.status(500).json({
+            status: false,
+            error: err
+        })
     }
 }
 

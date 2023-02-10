@@ -1,9 +1,9 @@
-const { Schema, model } = require('mongoose')
+const { Schema, model, mongoose } = require('mongoose')
 
-let itemSchema = new Schema({
+let ItemSchema = new Schema({
     productId: {
         type: mongoose.Schema.Types.ObjectId,
-        ref: "Product",
+        ref: "Products",
     },
     quantity: {
         type: Number,
@@ -19,20 +19,26 @@ let itemSchema = new Schema({
         required: true,
     }
 }, {
-    timestamp: true
+    timestamp: {
+        type: Date,
+        default: () => new Date(new Date())
+    }
 })
 const cartSchema = new Schema({
-    items: [itemSchema],
+    items: [ItemSchema],
     userId: {
         type: mongoose.Schema.Types.ObjectId,
-        ref: "User"
+        ref: "Usuarios"
     },
     subTotal: {
         default: 0,
         type: Number
     }
 }, {
-    timestamp: true  
+    timestamp: {
+        type: Date,
+        default: () => new Date(new Date())
+    }  
 })
 
 module.exports = model('Carts', cartSchema)

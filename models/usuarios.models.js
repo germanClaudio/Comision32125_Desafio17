@@ -27,19 +27,8 @@ const userSchema = new Schema({
     },
     admin: {
         type: Boolean,
-        required: true,
-        default: true,
-        value: true
-    },
-    avatar: {
-        type: String,
-        default: "",
         required: false,
-    },
-    bornDate: {
-        type: Date,
-        default: 1/1/2005,
-        required: true
+        value: true
     }
 })
 

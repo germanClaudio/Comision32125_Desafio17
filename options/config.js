@@ -8,11 +8,12 @@ const options = {
       password : '',
       database : 'products'
     }
+
   },
 
   mongoDB: {
     connection: {
-      URL: process.env.MONGO_URL_CONNECT_ECOM
+      URL: "mongodb+srv://germanClaudio:germanclaudio@cluster0.oqkw9q9.mongodb.net/ecommerce?retryWrites=true&w=majority", //mongodb://localhost:27017/ecommerce  127.0.0.1   mongodb+srv://germanClaudio:<password>@cluster0.oqkw9q9.mongodb.net/?retryWrites=true&w=majority
     },
   },
 
@@ -31,7 +32,6 @@ const options = {
   
   HOST: process.env.HOST || 'localhost'
 }
-
   module.exports = {
     options
   }

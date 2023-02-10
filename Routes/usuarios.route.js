@@ -1,11 +1,9 @@
 const { Router } = require('express')
+const routerUsers = Router()
 const crypto = require('crypto')
 
 const Users = require('../daos/usuarios/UsuariosDaoMongoDB.js')
-
-const routerUsers = Router()
 const users = new Users()
-
 
 routerUsers.get("/getUsers", (req, res) => {
     res.json({ users })
